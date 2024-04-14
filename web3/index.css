@@ -1,0 +1,4955 @@
+.wrapper-frame-6-child {
+    width: 100%;
+    height: 100%;
+    max-width: 100%;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: contain;
+    position: absolute;
+    left: 0;
+    top: -1px;
+    transform: scale(1.468);
+  }
+  .nav-bar-child,
+  .wrapper-frame-6 {
+    position: absolute;
+    margin: 0 !important;
+    right: 0;
+  }
+  .wrapper-frame-6 {
+    width: 100%;
+    height: 301px;
+    bottom: 262px;
+    left: 0;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 0;
+  }
+  .nav-bar-child {
+    width: 834px;
+    height: 266px;
+    bottom: -4px;
+  }
+  .c-circle-1 {
+    width: 16px;
+    height: 16px;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: none;
+    z-index: 2;
+  }
+  .union-icon {
+    height: 23.9px;
+    width: 27.1px;
+    position: absolute;
+    margin: 0 !important;
+    right: 252.9px;
+    bottom: 26.4px;
+    z-index: 2;
+  }
+  .frame-child {
+    width: 834px;
+    height: 2664px;
+    position: relative;
+    background: linear-gradient(
+      180deg,
+      #390196,
+      #001076 7%,
+      #6a73a9 17.5%,
+      #030d4d 22.5%,
+      #03254a 38.5%,
+      #03224f 54%,
+      #001073 69%,
+      #15216c 82.5%,
+      #000
+    );
+    display: none;
+    max-width: 100%;
+  }
+  .caret-right-fill-2 {
+    width: 16px;
+    height: 16px;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: none;
+  }
+  .q-tattoo-logo-720-tatto-logo-p-icon {
+    height: 49px;
+    width: 123px;
+    position: relative;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .home {
+    width: 36px;
+    color: #f08;
+    flex-shrink: 0;
+  }
+  .explore,
+  .home,
+  .marketplace {
+    position: relative;
+    font-weight: 500;
+    display: inline-block;
+    z-index: 1;
+  }
+  .marketplace {
+    flex: 1;
+    min-width: 62px;
+  }
+  .explore {
+    min-width: 36px;
+  }
+  .explore-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 6px 0 0;
+  }
+  .community,
+  .exhibition {
+    position: relative;
+    font-weight: 500;
+    display: inline-block;
+    min-width: 51px;
+    z-index: 1;
+  }
+  .community {
+    flex: 1;
+    min-width: 61px;
+  }
+  .frame-container,
+  .home-parent {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .home-parent {
+    align-self: stretch;
+    flex-direction: row;
+    padding: 0 4px 0 0;
+    gap: 9px;
+  }
+  .frame-container {
+    width: 292px;
+    flex-direction: column;
+    padding: 16px 0 0;
+    box-sizing: border-box;
+  }
+  .frame-item {
+    height: 25px;
+    width: 92px;
+    position: relative;
+    border-radius: 4px;
+    background: linear-gradient(90deg, #4600b9, #72579f 53%, #5b00f1 96.5%);
+    border: 1px solid #9a1add;
+    box-sizing: border-box;
+    display: none;
+  }
+  .wallet-1-icon {
+    height: 16px;
+    width: 16px;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+    min-height: 16px;
+    z-index: 2;
+  }
+  .connect-wallet {
+    position: relative;
+    display: inline-block;
+    min-width: 61px;
+    white-space: nowrap;
+    z-index: 3;
+  }
+  .connect-wallet-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 4px 0 0;
+  }
+  .rectangle-group {
+    align-self: stretch;
+    border-radius: 4px;
+    background: linear-gradient(90deg, #4600b9, #72579f 53%, #5b00f1 96.5%);
+    border: 1px solid #9a1add;
+    flex-direction: row;
+    padding: 4px 5px 5px 8px;
+    z-index: 1;
+  }
+  .frame-div,
+  .q-tattoo-logo-720-tatto-logo-p-parent,
+  .rectangle-group {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .frame-div {
+    width: 92px;
+    flex-direction: column;
+    padding: 10px 0 0;
+    box-sizing: border-box;
+    font-size: 8px;
+  }
+  .q-tattoo-logo-720-tatto-logo-p-parent {
+    flex-direction: row;
+    gap: 66.5px;
+    max-width: 100%;
+  }
+  .create-sell-and {
+    margin: 0;
+  }
+  .digital {
+    color: #fff;
+  }
+  .collect-digital {
+    margin: 0;
+  }
+  .nft-items {
+    margin: 0;
+    color: #fff;
+  }
+  .create-sell-and-container {
+    margin: 0;
+    height: 112px;
+    position: relative;
+    font-size: inherit;
+    font-weight: 600;
+    font-family: inherit;
+    display: inline-block;
+    flex-shrink: 0;
+    z-index: 1;
+  }
+  .the-worlds-best {
+    margin-block-start: 0;
+    margin-block-end: 5px;
+  }
+  .ethereum-currency {
+    margin: 0;
+  }
+  .the-worlds-best-container {
+    height: 12px;
+    position: relative;
+    display: inline-block;
+    z-index: 1;
+  }
+  .the-worlds-best-and-safest-nf-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 1px;
+    font-size: 9px;
+    color: #fef4f9;
+    font-family: Roboto;
+  }
+  .create-sell-and-collect-digit-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 13px;
+  }
+  .leafing-clusters-child {
+    height: 26px;
+    width: 67px;
+    position: relative;
+    border-radius: 4px;
+    background: linear-gradient(180deg, #e91f8d, #816273);
+    display: none;
+  }
+  .vector-icon,
+  .vector-icon1,
+  .vector-icon2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+  }
+  .vector-icon1,
+  .vector-icon2 {
+    z-index: 3;
+  }
+  .vector-icon2 {
+    z-index: 4;
+  }
+  .vector-group {
+    position: absolute;
+    top: 6.4px;
+    left: 1px;
+    width: 4px;
+    height: 3.5px;
+  }
+  .vector-parent {
+    height: 11px;
+    width: 11px;
+    position: relative;
+  }
+  .leafing-clusters-inner {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .explore1 {
+    position: relative;
+    font-weight: 500;
+    display: inline-block;
+    min-width: 36px;
+    z-index: 2;
+  }
+  .leafing-clusters {
+    border-radius: 4px;
+    background: linear-gradient(180deg, #e91f8d, #816273);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 6.8px 6px 7px 10.4px;
+    gap: 3.6px;
+    z-index: 1;
+  }
+  .conditional-splitter-child {
+    height: 26px;
+    width: 65px;
+    position: relative;
+    border-radius: 4px;
+    background-color: rgba(217, 217, 217, 0.5);
+    border: 1px solid #dfc1e5;
+    box-sizing: border-box;
+    display: none;
+  }
+  .create,
+  .images-1-icon {
+    position: relative;
+    flex-shrink: 0;
+    z-index: 2;
+  }
+  .images-1-icon {
+    height: 12px;
+    width: 12px;
+    overflow: hidden;
+    min-height: 12px;
+  }
+  .create {
+    width: 36px;
+    font-size: 9px;
+    font-weight: 500;
+    font-family: Inter;
+    color: #fff;
+    text-align: left;
+    display: inline-block;
+  }
+  .conditional-splitter {
+    cursor: pointer;
+    border: 1px solid #dfc1e5;
+    padding: 7px 3px 7px 10px;
+    background-color: rgba(217, 217, 217, 0.5);
+    flex: 1;
+    border-radius: 4px;
+    gap: 2px;
+    z-index: 1;
+  }
+  .conditional-splitter:hover {
+    background-color: rgba(191, 191, 191, 0.5);
+    border: 1px solid #c7a8cc;
+    box-sizing: border-box;
+  }
+  .branching-clusters,
+  .branching-clusters-wrapper,
+  .conditional-splitter {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .branching-clusters {
+    flex: 1;
+    gap: 10px;
+  }
+  .branching-clusters-wrapper {
+    width: 144px;
+    padding: 0 1px;
+    box-sizing: border-box;
+  }
+  .executiveassets,
+  .m {
+    position: relative;
+    display: inline-block;
+    z-index: 1;
+  }
+  .m {
+    width: 48px;
+    height: 12px;
+    font-weight: 500;
+    flex-shrink: 0;
+  }
+  .executiveassets {
+    font-size: 9px;
+    font-family: Roboto;
+    color: #fef4f9;
+    min-width: 71px;
+  }
+  .loop-constructor {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 7px;
+  }
+  .div,
+  .nft-best-creator {
+    position: relative;
+    display: inline-block;
+    z-index: 1;
+  }
+  .div {
+    width: 48px;
+    height: 12px;
+    font-weight: 500;
+    flex-shrink: 0;
+  }
+  .nft-best-creator {
+    font-size: 9px;
+    font-family: Roboto;
+    color: #fef4f9;
+    min-width: 71px;
+  }
+  .loop-constructor1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 7px;
+  }
+  .platform-support,
+  .rule-setter {
+    position: relative;
+    display: inline-block;
+    z-index: 1;
+  }
+  .rule-setter {
+    width: 48px;
+    height: 12px;
+    font-weight: 500;
+    flex-shrink: 0;
+  }
+  .platform-support {
+    min-width: 71px;
+  }
+  .error-handler,
+  .value-transformer {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .value-transformer {
+    flex-direction: row;
+    padding: 0 0 0 2px;
+    font-size: 9px;
+    color: #fef4f9;
+    font-family: Roboto;
+  }
+  .error-handler {
+    flex-direction: column;
+    gap: 7px;
+  }
+  .frame-parent2,
+  .function-applier {
+    align-self: stretch;
+    justify-content: flex-start;
+  }
+  .function-applier {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 10px;
+    font-size: 15px;
+  }
+  .frame-parent2 {
+    gap: 32px;
+    font-size: 9px;
+    color: #fff;
+  }
+  .ancestry-path,
+  .ancestry-path-wrapper,
+  .frame-parent2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .ancestry-path {
+    align-self: stretch;
+    justify-content: flex-start;
+    gap: 39px;
+  }
+  .ancestry-path-wrapper {
+    width: 235px;
+    justify-content: flex-end;
+    padding: 0 0 4.8px;
+    box-sizing: border-box;
+    min-width: 235px;
+  }
+  .whatsapp-image-2024-04-13-at-1 {
+    position: absolute;
+    top: 24.9px;
+    left: 66.8px;
+    border-radius: 12px;
+    width: 257.4px;
+    height: 267.9px;
+    object-fit: contain;
+    z-index: 1;
+  }
+  .whatsapp-image-2024-04-13-at-11,
+  .whatsapp-image-2024-04-13-at-12 {
+    position: absolute;
+    height: calc(100% - 1.3px);
+    top: 0;
+    bottom: 1.3px;
+    left: 29px;
+    border-radius: 12px;
+    max-height: 100%;
+    width: 229.3px;
+    object-fit: contain;
+    z-index: 2;
+  }
+  .whatsapp-image-2024-04-13-at-12 {
+    height: calc(100% - 5px);
+    top: 1.2px;
+    bottom: 3.8px;
+    left: 0;
+    width: 195.2px;
+    z-index: 3;
+  }
+  .constant-provider {
+    height: 292.8px;
+    width: 324.2px;
+    position: relative;
+    min-width: 324.19999999999993px;
+    max-width: 100%;
+  }
+  .frame-parent1 {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+    max-width: 100%;
+    gap: 20px;
+  }
+  .frame-wrapper1 {
+    align-self: stretch;
+    flex-direction: row;
+    padding: 0 0 0 12px;
+    box-sizing: border-box;
+    font-size: 30px;
+    color: #eb2a91;
+  }
+  .cousins-branch,
+  .frame-group,
+  .frame-wrapper1 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .frame-group {
+    flex: 1;
+    flex-direction: column;
+    gap: 7px;
+  }
+  .cousins-branch {
+    width: 682.4px;
+    flex-direction: row;
+    padding: 0 4px;
+    box-sizing: border-box;
+  }
+  .screenshot-2024-04-13-154607-r-icon {
+    align-self: stretch;
+    flex: 1;
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .sample-selector {
+    height: 100px;
+    width: 162px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 19px 0 0;
+    box-sizing: border-box;
+  }
+  .screenshot-2024-04-13-154737-r-icon {
+    position: absolute;
+    top: 31px;
+    left: 0;
+    width: 300px;
+    height: 57px;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .screenshot-2024-04-13-155006-r-icon {
+    position: absolute;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    left: 242px;
+    max-height: 100%;
+    width: 259px;
+    object-fit: cover;
+    z-index: 2;
+  }
+  .screenshot-2024-04-13-154737-r-parent {
+    height: 119px;
+    flex: 1;
+    position: relative;
+    min-width: 326px;
+    max-width: 100%;
+  }
+  .data-merger,
+  .siblings-branch {
+    align-self: stretch;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .data-merger {
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 37px;
+  }
+  .siblings-branch {
+    flex-direction: column;
+    gap: 10.2px;
+  }
+  .editors-pick-for {
+    margin: 0;
+    width: 236px;
+    position: relative;
+    font-size: inherit;
+    font-weight: 700;
+    font-family: inherit;
+    display: inline-block;
+    flex-shrink: 0;
+    z-index: 1;
+  }
+  .see-all-artwork {
+    align-self: stretch;
+    position: relative;
+    font-weight: 600;
+    z-index: 1;
+  }
+  .logical-operator {
+    width: 125px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 3px 0 0;
+    box-sizing: border-box;
+    font-size: 10px;
+  }
+  .editors-pick-for-this-week-parent {
+    width: 669px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 20px;
+    max-width: 100%;
+    font-size: 17px;
+    color: #fff;
+  }
+  .frame-wrapper,
+  .siblings-branch-parent {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .siblings-branch-parent {
+    flex: 1;
+    flex-direction: column;
+    gap: 29px;
+  }
+  .frame-wrapper {
+    align-self: stretch;
+    flex-direction: row;
+    padding: 0 0 28px 28px;
+    box-sizing: border-box;
+    color: #fef4f9;
+  }
+  .not-operator-child {
+    width: 152px;
+    height: 232px;
+    position: relative;
+    border-radius: 10px;
+    background: linear-gradient(
+      180deg,
+      rgba(0, 2, 8, 0.5),
+      rgba(114, 15, 69, 0.5) 62.5%,
+      rgba(131, 17, 79, 0.5) 99.99%,
+      rgba(85, 4, 48, 0.5)
+    );
+    display: none;
+  }
+  .whatsapp-image-2024-04-13-at-13 {
+    width: 135px;
+    height: 135px;
+    position: relative;
+    border-radius: 9px;
+    object-fit: cover;
+    z-index: 2;
+  }
+  .span {
+    font-size: 11px;
+  }
+  .evolution-34,
+  .owned-by {
+    position: relative;
+    display: inline-block;
+    min-width: 95px;
+    z-index: 2;
+  }
+  .owned-by {
+    min-width: 40px;
+  }
+  .owned-by-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 1px;
+  }
+  .anushka-chaudhary {
+    position: relative;
+    display: inline-block;
+    min-width: 81px;
+    z-index: 2;
+  }
+  .frame-parent4 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 5px;
+  }
+  .current-bid,
+  .rs60000 {
+    position: relative;
+    display: inline-block;
+    min-width: 34px;
+    z-index: 2;
+  }
+  .rs60000 {
+    min-width: 30px;
+  }
+  .rs60000-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 2px;
+  }
+  .current-bid-parent,
+  .frame-wrapper4 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .current-bid-parent {
+    justify-content: flex-start;
+    gap: 3px;
+  }
+  .frame-wrapper4 {
+    justify-content: flex-end;
+    padding: 0 0 2px;
+    font-size: 6px;
+  }
+  .frame-parent3 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: 15px;
+  }
+  .evolution-34-parent,
+  .frame-wrapper3 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .frame-wrapper3 {
+    flex-direction: row;
+    padding: 0 0 0 5px;
+    font-size: 8px;
+  }
+  .evolution-34-parent {
+    flex-direction: column;
+    gap: 4px;
+  }
+  .control-flow-inner {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 1px 0 0;
+  }
+  .frame-inner {
+    height: 22px;
+    width: 66px;
+    position: relative;
+    border-radius: 10.5px;
+    background-color: rgba(182, 11, 104, 0.5);
+    display: none;
+  }
+  .place-bid {
+    position: relative;
+    font-size: 9px;
+    display: inline-block;
+    font-family: Inter;
+    color: #fff;
+    text-align: left;
+    min-width: 41px;
+    z-index: 3;
+  }
+  .rectangle-container {
+    cursor: pointer;
+    border: 0;
+    padding: 6px 12px 5px;
+    background-color: rgba(182, 11, 104, 0.5);
+    border-radius: 10.5px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    white-space: nowrap;
+    z-index: 2;
+  }
+  .rectangle-container:hover {
+    background-color: rgba(219, 51, 143, 0.5);
+  }
+  .view-history {
+    position: relative;
+    display: inline-block;
+    min-width: 44px;
+    z-index: 2;
+  }
+  .view-history-wrapper {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 8px 0 0;
+  }
+  .control-flow,
+  .frame-parent5,
+  .view-history-wrapper {
+    display: flex;
+    justify-content: flex-start;
+  }
+  .frame-parent5 {
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 24px;
+    font-size: 7px;
+  }
+  .control-flow {
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 9px;
+  }
+  .data-flow {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 1px 0 0;
+  }
+  .child-selector-child,
+  .not-operator {
+    width: 152px;
+    border-radius: 10px;
+    background: linear-gradient(
+      180deg,
+      rgba(0, 2, 8, 0.5),
+      rgba(114, 15, 69, 0.5) 62.5%,
+      rgba(131, 17, 79, 0.5) 99.99%,
+      rgba(85, 4, 48, 0.5)
+    );
+  }
+  .not-operator {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+    padding: 10px 9px 8px 6px;
+    box-sizing: border-box;
+    gap: 6px;
+    z-index: 1;
+  }
+  .child-selector-child {
+    height: 234px;
+    position: relative;
+    display: none;
+  }
+  .whatsapp-image-2024-04-13-at-14 {
+    height: 135px;
+    width: 135px;
+    position: relative;
+    border-radius: 9px;
+    object-fit: cover;
+    z-index: 2;
+  }
+  .whatsapp-image-2024-04-13-at-1-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 4px 0 3px;
+  }
+  .black-bulls-67 {
+    position: relative;
+    display: inline-block;
+    min-width: 98px;
+    z-index: 2;
+  }
+  .black-bulls-67-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 0 4px;
+  }
+  .anurag-gautam,
+  .owned-by1 {
+    position: relative;
+    display: inline-block;
+    min-width: 40px;
+    z-index: 2;
+  }
+  .anurag-gautam {
+    min-width: 62px;
+  }
+  .owned-by-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 2px;
+  }
+  .current-bid1,
+  .rs5000 {
+    position: relative;
+    display: inline-block;
+    min-width: 34px;
+    z-index: 2;
+  }
+  .rs5000 {
+    min-width: 24px;
+  }
+  .column,
+  .spacer {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .spacer {
+    flex-direction: row;
+    padding: 0 4px 0 6px;
+  }
+  .column {
+    flex-direction: column;
+    gap: 3px;
+    font-size: 6px;
+  }
+  .child-selector-inner,
+  .frame-parent6 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+  }
+  .frame-parent6 {
+    flex: 1;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  .child-selector-inner {
+    align-self: stretch;
+    justify-content: flex-start;
+    padding: 0 4px 0 9px;
+    font-size: 8px;
+  }
+  .rectangle-div {
+    height: 22px;
+    width: 66px;
+    position: relative;
+    border-radius: 10.5px;
+    background-color: rgba(182, 11, 104, 0.5);
+    border: 1px solid #000;
+    box-sizing: border-box;
+    display: none;
+  }
+  .place-bid1 {
+    position: relative;
+    font-size: 9px;
+    display: inline-block;
+    font-family: Inter;
+    color: #fff;
+    text-align: left;
+    min-width: 41px;
+    z-index: 3;
+  }
+  .frame-button {
+    cursor: pointer;
+    border: 1px solid #000;
+    padding: 5px 11px 6px 12px;
+    background-color: rgba(182, 11, 104, 0.5);
+    flex: 1;
+    border-radius: 10.5px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    white-space: nowrap;
+    z-index: 2;
+  }
+  .frame-button:hover,
+  .rectangle-parent1:hover,
+  .rectangle-parent2:hover {
+    background-color: rgba(219, 51, 143, 0.5);
+    border: 1px solid #333;
+    box-sizing: border-box;
+  }
+  .view-history1 {
+    position: relative;
+    display: inline-block;
+    min-width: 44px;
+    z-index: 2;
+  }
+  .view-history-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 8px 0 0;
+  }
+  .output-processor,
+  .output-processor-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .output-processor {
+    flex: 1;
+    gap: 25px;
+  }
+  .output-processor-wrapper {
+    align-self: stretch;
+    padding: 0 3px 0 4px;
+    font-size: 7px;
+  }
+  .child-selector,
+  .not-operator-item {
+    width: 152px;
+    border-radius: 10px;
+    background: linear-gradient(
+      180deg,
+      rgba(0, 2, 8, 0.5),
+      rgba(114, 15, 69, 0.5) 62.5%,
+      rgba(131, 17, 79, 0.5) 99.99%,
+      rgba(85, 4, 48, 0.5)
+    );
+  }
+  .child-selector {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 10px 5px;
+    box-sizing: border-box;
+    gap: 6px;
+    z-index: 1;
+  }
+  .not-operator-item {
+    height: 232px;
+    position: relative;
+    display: none;
+  }
+  .whatsapp-image-2024-04-13-at-15 {
+    width: 135px;
+    height: 135px;
+    position: relative;
+    border-radius: 9px;
+    object-fit: cover;
+    z-index: 2;
+  }
+  .kitty-kat-45 {
+    position: relative;
+    display: inline-block;
+    min-width: 84px;
+    z-index: 2;
+  }
+  .kitty-kat-45-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 2px;
+  }
+  .owned-by2 {
+    position: relative;
+    display: inline-block;
+    min-width: 40px;
+    z-index: 2;
+  }
+  .owned-by-container {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 4px 0 2px;
+  }
+  .anshika-raj {
+    position: relative;
+    display: inline-block;
+    min-width: 46px;
+    z-index: 2;
+  }
+  .frame-parent8 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px;
+  }
+  .current-bid2,
+  .rs-3456 {
+    position: relative;
+    display: inline-block;
+    min-width: 34px;
+    z-index: 2;
+  }
+  .rs-3456 {
+    min-width: 25px;
+  }
+  .button {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 3px 0 6px;
+  }
+  .current-bid-group {
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 2px;
+  }
+  .current-bid-group,
+  .frame-parent7,
+  .frame-wrapper5 {
+    display: flex;
+    align-items: flex-start;
+  }
+  .frame-wrapper5 {
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 2px 0 0;
+    font-size: 6px;
+  }
+  .frame-parent7 {
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 20px;
+    font-size: 8px;
+  }
+  .frame-child1 {
+    height: 22px;
+    width: 66px;
+    position: relative;
+    border-radius: 10.5px;
+    background-color: rgba(182, 11, 104, 0.5);
+    border: 1px solid #000;
+    box-sizing: border-box;
+    display: none;
+  }
+  .place-bid2 {
+    position: relative;
+    font-size: 9px;
+    display: inline-block;
+    font-family: Inter;
+    color: #fff;
+    text-align: left;
+    min-width: 41px;
+    z-index: 3;
+  }
+  .rectangle-parent1 {
+    cursor: pointer;
+    border: 1px solid #000;
+    padding: 5px 11px 6px 12px;
+    background-color: rgba(182, 11, 104, 0.5);
+    flex: 1;
+    border-radius: 10.5px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    white-space: nowrap;
+    z-index: 2;
+  }
+  .view-history2 {
+    position: relative;
+    display: inline-block;
+    min-width: 44px;
+    z-index: 2;
+  }
+  .output-processor1,
+  .view-history-frame {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .view-history-frame {
+    flex-direction: column;
+    padding: 8px 0 0;
+  }
+  .output-processor1 {
+    align-self: stretch;
+    flex-direction: row;
+    gap: 25px;
+    font-size: 7px;
+  }
+  .not-operator-inner,
+  .not-operator1 {
+    width: 152px;
+    border-radius: 10px;
+    background: linear-gradient(
+      180deg,
+      rgba(0, 2, 8, 0.5),
+      rgba(114, 15, 69, 0.5) 62.5%,
+      rgba(131, 17, 79, 0.5) 99.99%,
+      rgba(85, 4, 48, 0.5)
+    );
+  }
+  .not-operator1 {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 10px 8px 8px;
+    box-sizing: border-box;
+    gap: 7px;
+    z-index: 1;
+  }
+  .not-operator-inner {
+    height: 232px;
+    position: relative;
+    display: none;
+  }
+  .whatsapp-image-2024-04-13-at-16 {
+    height: 135px;
+    width: 135px;
+    position: relative;
+    border-radius: 9px;
+    object-fit: cover;
+    z-index: 2;
+  }
+  .whatsapp-image-2024-04-13-at-1-container {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 2px 0 3px;
+  }
+  .devils-smile-12 {
+    position: relative;
+    display: inline-block;
+    min-width: 99px;
+    z-index: 2;
+  }
+  .devils-smile-12-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 1px;
+  }
+  .amisha-singh,
+  .owned-by3 {
+    position: relative;
+    display: inline-block;
+    min-width: 40px;
+    z-index: 2;
+  }
+  .amisha-singh {
+    min-width: 54px;
+  }
+  .owned-by-group {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 1px;
+  }
+  .current-bid3,
+  .rs-6754 {
+    position: relative;
+    display: inline-block;
+    min-width: 34px;
+    z-index: 2;
+  }
+  .rs-6754 {
+    min-width: 25px;
+  }
+  .button1,
+  .current-bid-container,
+  .frame-parent9 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .button1 {
+    flex-direction: row;
+    padding: 0 3px 0 6px;
+  }
+  .current-bid-container,
+  .frame-parent9 {
+    flex-direction: column;
+    gap: 2px;
+    font-size: 6px;
+  }
+  .frame-parent9 {
+    width: 137px;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 20px;
+    font-size: 8px;
+  }
+  .frame-child2 {
+    height: 22px;
+    width: 66px;
+    position: relative;
+    border-radius: 10.5px;
+    background-color: rgba(182, 11, 104, 0.5);
+    border: 1px solid #000;
+    box-sizing: border-box;
+    display: none;
+  }
+  .place-bid3 {
+    position: relative;
+    font-size: 9px;
+    display: inline-block;
+    font-family: Inter;
+    color: #fff;
+    text-align: left;
+    min-width: 41px;
+    z-index: 3;
+  }
+  .rectangle-parent2 {
+    cursor: pointer;
+    border: 1px solid #000;
+    padding: 5px 9px 6px 14px;
+    background-color: rgba(182, 11, 104, 0.5);
+    flex: 1;
+    border-radius: 10.5px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    white-space: nowrap;
+    z-index: 2;
+  }
+  .view-history3 {
+    position: relative;
+    display: inline-block;
+    min-width: 44px;
+    z-index: 2;
+  }
+  .view-history-wrapper1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 8px 0 0;
+  }
+  .frame-parent10 {
+    width: 136px;
+    flex-direction: row;
+    gap: 26px;
+    font-size: 7px;
+  }
+  .frame-parent10,
+  .not-operator2,
+  .or-operator {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .not-operator2 {
+    width: 152px;
+    border-radius: 10px;
+    background: linear-gradient(
+      180deg,
+      rgba(0, 2, 8, 0.5),
+      rgba(114, 15, 69, 0.5) 62.5%,
+      rgba(131, 17, 79, 0.5) 99.99%,
+      rgba(85, 4, 48, 0.5)
+    );
+    flex-shrink: 0;
+    flex-direction: column;
+    padding: 10px 6px 8px;
+    box-sizing: border-box;
+    gap: 8px;
+    z-index: 1;
+  }
+  .or-operator {
+    width: 661px;
+    overflow-x: auto;
+    flex-direction: row;
+    gap: 17.7px;
+    max-width: 100%;
+  }
+  .create-and-sell {
+    margin: 0;
+    width: 251px;
+    position: relative;
+    font-size: inherit;
+    font-weight: 700;
+    font-family: inherit;
+    display: inline-block;
+    z-index: 1;
+  }
+  .blur-icon {
+    height: 36px;
+    width: 36px;
+    position: relative;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .shadow {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 1px;
+  }
+  .set-up-your,
+  .wallet-that-is {
+    position: relative;
+    display: inline-block;
+    z-index: 1;
+  }
+  .set-up-your {
+    margin: 0;
+    font-size: inherit;
+    font-weight: 700;
+    font-family: inherit;
+    min-width: 103px;
+  }
+  .wallet-that-is {
+    align-self: stretch;
+    height: 67px;
+    font-size: 9px;
+    font-weight: 300;
+    flex-shrink: 0;
+  }
+  .shadow-parent {
+    width: 142px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 12.5px;
+    min-width: 142px;
+  }
+  .file-text-icon {
+    height: 36px;
+    width: 31px;
+    position: relative;
+    z-index: 1;
+  }
+  .saturation {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 5px;
+  }
+  .create-your-collection,
+  .setting-your-nft {
+    position: relative;
+    display: inline-block;
+    z-index: 1;
+  }
+  .create-your-collection {
+    margin: 0;
+    font-size: inherit;
+    font-weight: 700;
+    font-family: inherit;
+    min-width: 126px;
+  }
+  .setting-your-nft {
+    align-self: stretch;
+    height: 57px;
+    font-size: 9px;
+    font-weight: 300;
+    flex-shrink: 0;
+  }
+  .hue {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 12.5px;
+    min-width: 89px;
+  }
+  .div1,
+  .div2 {
+    position: absolute;
+    top: 4px;
+    left: 8px;
+    line-height: 12px;
+    font-weight: 500;
+    display: none;
+  }
+  .div2 {
+    top: -1px;
+    left: 2px;
+    color: #000;
+    text-align: center;
+  }
+  .union-icon1 {
+    position: relative;
+    width: 16px;
+    height: 16px;
+    display: none;
+  }
+  .union-icon2 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .currency-exchange {
+    width: 32px;
+    height: 33px;
+    position: relative;
+    z-index: 1;
+    font-family: Arya;
+  }
+  .add-your-nfts,
+  .add-your-nfts1 {
+    position: relative;
+    display: inline-block;
+    z-index: 1;
+  }
+  .add-your-nfts {
+    margin: 0;
+    font-size: 11px;
+    font-weight: 700;
+    font-family: inherit;
+    min-width: 83px;
+  }
+  .add-your-nfts1 {
+    align-self: stretch;
+    height: 44px;
+    font-size: 9px;
+    font-weight: 300;
+    flex-shrink: 0;
+  }
+  .align {
+    align-self: stretch;
+    flex-direction: column;
+    gap: 12.5px;
+  }
+  .align,
+  .background,
+  .contrast,
+  .filler,
+  .guides {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .guides {
+    width: 125px;
+    flex-direction: column;
+    padding: 3px 0 0;
+    box-sizing: border-box;
+    min-width: 125px;
+    font-size: 8px;
+  }
+  .background,
+  .contrast,
+  .filler {
+    flex-direction: row;
+  }
+  .contrast {
+    flex: 1;
+    gap: 38px;
+    min-width: 195px;
+  }
+  .background,
+  .filler {
+    max-width: 100%;
+  }
+  .filler {
+    flex: 1;
+    gap: 31px;
+  }
+  .background {
+    align-self: stretch;
+    padding: 0 0 0 8px;
+    box-sizing: border-box;
+  }
+  .live-auctions {
+    margin: 0;
+    position: relative;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: inherit;
+    display: inline-block;
+    min-width: 104px;
+    z-index: 1;
+  }
+  .icon {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 27px;
+    max-width: 100%;
+  }
+  .bag-fill-icon {
+    height: 33px;
+    width: 27px;
+    position: relative;
+    z-index: 1;
+  }
+  .error-handler1 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 1px;
+  }
+  .list-them-for {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 700;
+    font-family: inherit;
+    display: inline-block;
+    min-width: 99px;
+    z-index: 1;
+  }
+  .choose-between-auctionsfixed {
+    align-self: stretch;
+    position: relative;
+    font-size: 9px;
+    font-weight: 300;
+    z-index: 1;
+  }
+  .feature-extractor {
+    align-self: stretch;
+    flex-direction: column;
+    gap: 12.5px;
+  }
+  .condition-splitter,
+  .feature-extractor,
+  .icon-parent {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .condition-splitter {
+    width: 124px;
+    flex-direction: column;
+    padding: 3px 0 0;
+    box-sizing: border-box;
+  }
+  .icon-parent {
+    align-self: stretch;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 46px;
+    max-width: 100%;
+    font-size: 11px;
+  }
+  .create-and-sell-your-nfts-parent {
+    align-self: stretch;
+    flex-direction: column;
+    gap: 41px;
+    font-size: 17px;
+  }
+  .create-and-sell-your-nfts-parent,
+  .frame-wrapper2,
+  .or-operator-parent {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .or-operator-parent {
+    flex: 1;
+    flex-direction: column;
+    gap: 54px;
+  }
+  .frame-wrapper2 {
+    width: 717px;
+    flex-direction: row;
+    padding: 0 28px;
+    box-sizing: border-box;
+  }
+  .sequence-analyzer-child {
+    width: 203px;
+    height: 305px;
+    position: relative;
+    border-radius: 10px;
+    background: linear-gradient(
+      180deg,
+      rgba(255, 0, 139, 0.5),
+      rgba(176, 0, 96, 0.5) 55.5%
+    );
+    display: none;
+  }
+  .whatsapp-image-2024-04-13-at-17 {
+    height: 187px;
+    width: 183px;
+    position: relative;
+    border-radius: 10px;
+    object-fit: cover;
+    z-index: 2;
+  }
+  .tree-builder {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 6px 0 2px;
+  }
+  .person-square-icon {
+    height: 20px;
+    width: 20px;
+    position: relative;
+    z-index: 2;
+  }
+  .goofy-gloves {
+    position: relative;
+    display: inline-block;
+    min-width: 66px;
+    z-index: 3;
+  }
+  .validation-splitter {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 1px;
+  }
+  .created-by-utkarsh {
+    position: relative;
+    font-size: 8px;
+    display: inline-block;
+    white-space: pre-wrap;
+    min-width: 100px;
+    z-index: 2;
+  }
+  .clusterizer,
+  .learning-rate-scheduler,
+  .normalizer {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .clusterizer,
+  .normalizer {
+    flex-direction: row;
+  }
+  .normalizer {
+    gap: 7px;
+  }
+  .clusterizer {
+    padding: 0 11px;
+  }
+  .suit-heart-fill-icon {
+    width: 16px;
+    height: 15px;
+    position: relative;
+    z-index: 2;
+  }
+  .training-logger {
+    position: relative;
+    display: inline-block;
+    min-width: 16px;
+    z-index: 2;
+  }
+  .model-printer {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 5px 0 0;
+    gap: 3px;
+    font-size: 8px;
+  }
+  .trophy-fill-icon {
+    height: 14px;
+    width: 14px;
+    position: relative;
+    z-index: 2;
+  }
+  .optimization-method {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 3px;
+  }
+  .link-aggregator {
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    min-width: 20px;
+    z-index: 2;
+  }
+  .hyperparameters-setter,
+  .progress-visualizer {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .hyperparameters-setter {
+    gap: 2px;
+  }
+  .progress-visualizer {
+    padding: 2px 0 0;
+  }
+  .div3,
+  .piggy-bank-icon {
+    position: relative;
+    z-index: 2;
+  }
+  .piggy-bank-icon {
+    width: 16px;
+    height: 16px;
+  }
+  .div3 {
+    font-weight: 600;
+    display: inline-block;
+    min-width: 14px;
+  }
+  .value-collector,
+  .wrapper {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .wrapper {
+    flex-direction: row;
+    padding: 0 0 0 2px;
+  }
+  .value-collector {
+    flex-direction: column;
+    gap: 2px;
+  }
+  .model-exporter,
+  .model-loader {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+  }
+  .model-exporter {
+    flex: 1;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  .model-loader {
+    width: 179px;
+    justify-content: flex-start;
+    padding: 0 20px;
+    box-sizing: border-box;
+    font-size: 7px;
+  }
+  .frame-child3 {
+    height: 22px;
+    width: 66px;
+    position: relative;
+    border-radius: 5px;
+    background-color: rgba(182, 11, 104, 0.5);
+    display: none;
+  }
+  .d-7h-0 {
+    position: relative;
+    font-size: 8px;
+    display: inline-block;
+    font-family: Inter;
+    color: #fff;
+    white-space: pre-wrap;
+    text-align: left;
+    min-width: 41px;
+    z-index: 3;
+  }
+  .rectangle-parent3 {
+    cursor: pointer;
+    border: 0;
+    padding: 5px 11px 7px;
+    background-color: rgba(182, 11, 104, 0.5);
+    width: 66px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    box-sizing: border-box;
+    white-space: nowrap;
+    z-index: 2;
+  }
+  .rectangle-parent3:hover {
+    background-color: rgba(219, 51, 143, 0.5);
+  }
+  .frame-child4 {
+    height: 22px;
+    width: 110px;
+    position: relative;
+    border-radius: 5px;
+    background-color: rgba(235, 14, 134, 0.5);
+    display: none;
+  }
+  .place-bid4 {
+    position: relative;
+    font-size: 10px;
+    display: inline-block;
+    font-family: Inter;
+    color: #fff;
+    text-align: left;
+    min-width: 45px;
+    z-index: 3;
+  }
+  .frame-parent11,
+  .rectangle-parent4,
+  .sequence-analyzer {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .rectangle-parent4 {
+    cursor: pointer;
+    border: 0;
+    padding: 5px 26px;
+    background-color: rgba(235, 14, 134, 0.5);
+    flex: 1;
+    border-radius: 5px;
+    white-space: nowrap;
+    z-index: 2;
+  }
+  .rectangle-parent4:hover {
+    background-color: rgba(255, 51, 173, 0.5);
+  }
+  .frame-parent11,
+  .sequence-analyzer {
+    width: 183px;
+    gap: 7px;
+  }
+  .sequence-analyzer {
+    width: 203px;
+    border-radius: 10px;
+    background: linear-gradient(
+      180deg,
+      rgba(255, 0, 139, 0.5),
+      rgba(176, 0, 96, 0.5) 55.5%
+    );
+    flex-shrink: 0;
+    flex-direction: column;
+    padding: 7px 6px 11px;
+    box-sizing: border-box;
+    gap: 9.3px;
+    z-index: 1;
+  }
+  .frame-child5 {
+    width: 203px;
+    height: 305px;
+    position: relative;
+    border-radius: 10px;
+    background-color: rgba(233, 31, 141, 0.5);
+    display: none;
+  }
+  .whatsapp-image-2024-04-13-at-18 {
+    width: 184px;
+    height: 187px;
+    position: relative;
+    border-radius: 10px;
+    object-fit: cover;
+    z-index: 2;
+  }
+  .created-by-debanshi,
+  .dumbell-drop {
+    position: relative;
+    display: inline-block;
+    min-width: 67px;
+    z-index: 2;
+  }
+  .created-by-debanshi {
+    min-width: 100px;
+    z-index: 3;
+  }
+  .learning-algorithm {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 0 0 1px;
+    font-size: 8px;
+  }
+  .gradient-calculator,
+  .gradient-calculator-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .gradient-calculator-wrapper {
+    flex-direction: row;
+    padding: 0 4px;
+  }
+  .suit-heart-fill-icon1 {
+    width: 16px;
+    height: 15px;
+    position: relative;
+    z-index: 2;
+  }
+  .weights-initializer {
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    min-width: 17px;
+    z-index: 2;
+  }
+  .backpropagation {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 6px 0 0;
+    gap: 3px;
+  }
+  .trophy-fill-icon1 {
+    height: 14px;
+    width: 14px;
+    position: relative;
+    z-index: 2;
+  }
+  .optimization-method1 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 3px;
+  }
+  .momentum {
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    min-width: 20px;
+    z-index: 2;
+  }
+  .hyperparameters-setter1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 2px;
+  }
+  .piggy-bank-icon1 {
+    height: 16px;
+    width: 16px;
+    position: relative;
+    z-index: 2;
+  }
+  .adam {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 0 0 2px;
+  }
+  .epoch-counter {
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    min-width: 18px;
+    z-index: 2;
+  }
+  .r-m-s-prop {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 2px;
+  }
+  .cost-function {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 20px;
+    font-size: 7px;
+  }
+  .frame-parent13,
+  .frame-wrapper6 {
+    display: flex;
+    align-items: flex-start;
+  }
+  .frame-parent13 {
+    flex: 1;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 7px;
+  }
+  .frame-wrapper6 {
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 0 20px 0 23px;
+  }
+  .testing-data-selector-child {
+    height: 22px;
+    width: 66px;
+    position: relative;
+    border-radius: 5px;
+    background-color: rgba(182, 11, 104, 0.5);
+    display: none;
+  }
+  .d-7h-3m {
+    position: relative;
+    font-size: 8px;
+    display: inline-block;
+    font-family: Inter;
+    color: #fff;
+    text-align: left;
+    min-width: 37px;
+    z-index: 3;
+  }
+  .testing-data-selector {
+    cursor: pointer;
+    border: 0;
+    padding: 5px 14px 7px;
+    background-color: rgba(182, 11, 104, 0.5);
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    white-space: nowrap;
+    z-index: 2;
+  }
+  .testing-data-selector:hover {
+    background-color: rgba(219, 51, 143, 0.5);
+  }
+  .frame-child6 {
+    height: 22px;
+    width: 110px;
+    position: relative;
+    border-radius: 5px;
+    background-color: rgba(235, 14, 134, 0.5);
+    display: none;
+  }
+  .place-bid5 {
+    position: relative;
+    font-size: 10px;
+    display: inline-block;
+    font-family: Inter;
+    color: #fff;
+    text-align: left;
+    min-width: 45px;
+    z-index: 3;
+  }
+  .rectangle-parent5,
+  .training-data-generator {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .rectangle-parent5 {
+    cursor: pointer;
+    border: 0;
+    padding: 5px 32px 5px 33px;
+    background-color: rgba(235, 14, 134, 0.5);
+    border-radius: 5px;
+    white-space: nowrap;
+    z-index: 2;
+  }
+  .rectangle-parent5:hover {
+    background-color: rgba(255, 51, 173, 0.5);
+  }
+  .training-data-generator {
+    gap: 6px;
+  }
+  .frame-parent12,
+  .group-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  .frame-parent12 {
+    align-self: stretch;
+    align-items: flex-end;
+    gap: 13px;
+  }
+  .group-div {
+    width: 203px;
+    border-radius: 10px;
+    background-color: rgba(233, 31, 141, 0.5);
+    flex-shrink: 0;
+    align-items: flex-start;
+    padding: 7px 9px 11px;
+    box-sizing: border-box;
+    gap: 10px;
+    z-index: 1;
+  }
+  .symbol-set-child {
+    width: 210px;
+    height: 305px;
+    position: relative;
+    border-radius: 10px;
+    background: linear-gradient(
+      180deg,
+      rgba(255, 0, 139, 0.5),
+      rgba(176, 0, 96, 0.5) 55.5%
+    );
+    display: none;
+  }
+  .whatsapp-image-2024-04-13-at-19 {
+    width: 188px;
+    height: 187px;
+    position: relative;
+    border-radius: 10px;
+    object-fit: cover;
+    z-index: 2;
+  }
+  .person-square-icon1 {
+    width: 20px;
+    height: 20px;
+    position: relative;
+    z-index: 2;
+  }
+  .person-square-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 2px 0 0;
+  }
+  .created-by-sanskar,
+  .hakuna-matata {
+    position: relative;
+    display: inline-block;
+    min-width: 74px;
+    z-index: 2;
+  }
+  .created-by-sanskar {
+    font-size: 8px;
+    min-width: 103px;
+  }
+  .frame-parent14,
+  .hakuna-matata-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 2px;
+  }
+  .frame-parent14 {
+    flex-direction: row;
+    gap: 6px;
+  }
+  .trophy-fill-icon2,
+  .vector-icon3 {
+    height: 14.9px;
+    width: 16.1px;
+    position: relative;
+    z-index: 2;
+  }
+  .trophy-fill-icon2 {
+    width: 15px;
+    height: 15px;
+  }
+  .trophy-fill-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 6.1px 0 0;
+  }
+  .corner-rounder,
+  .vector-container {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+  }
+  .vector-container {
+    flex: 1;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  .corner-rounder {
+    align-self: stretch;
+    justify-content: flex-start;
+    padding: 0 4px 0 2px;
+  }
+  .div4,
+  .div5 {
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    min-width: 17px;
+    z-index: 2;
+  }
+  .div5 {
+    min-width: 25px;
+  }
+  .parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  .fill-pattern-generator {
+    flex: 1;
+    flex-direction: column;
+    gap: 5px;
+  }
+  .fill-pattern-generator,
+  .interaction-handler,
+  .shadow-creator {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .shadow-creator {
+    width: 109px;
+    flex-direction: row;
+    padding: 0 13px;
+    box-sizing: border-box;
+    font-size: 7px;
+  }
+  .interaction-handler {
+    flex-direction: column;
+    gap: 1.9px;
+  }
+  .div6,
+  .piggy-bank-icon2 {
+    position: relative;
+    z-index: 2;
+  }
+  .piggy-bank-icon2 {
+    width: 16px;
+    height: 16px;
+  }
+  .div6 {
+    font-weight: 600;
+    display: inline-block;
+    min-width: 18px;
+  }
+  .piggy-bank-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 5px;
+    font-size: 7px;
+  }
+  .effect-engine,
+  .transition-manager {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+  }
+  .transition-manager {
+    align-items: flex-end;
+    gap: 5px;
+  }
+  .effect-engine {
+    align-items: flex-start;
+    padding: 0 7px;
+  }
+  .frame-child7 {
+    height: 22px;
+    width: 66px;
+    position: relative;
+    border-radius: 5px;
+    background-color: rgba(182, 11, 104, 0.5);
+    display: none;
+  }
+  .d-5-h {
+    position: relative;
+    font-size: 8px;
+    display: inline-block;
+    font-family: Inter;
+    color: #fff;
+    text-align: left;
+    min-width: 39px;
+    z-index: 3;
+  }
+  .frame-wrapper7,
+  .rectangle-parent6 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .rectangle-parent6 {
+    cursor: pointer;
+    border: 0;
+    padding: 5px 12px 7px;
+    background-color: rgba(182, 11, 104, 0.5);
+    align-self: stretch;
+    border-radius: 5px;
+    flex-direction: row;
+    white-space: nowrap;
+    z-index: 2;
+  }
+  .rectangle-parent6:hover {
+    background-color: rgba(219, 51, 143, 0.5);
+  }
+  .frame-wrapper7 {
+    width: 66px;
+    flex-direction: column;
+    padding: 1px 0 0;
+    box-sizing: border-box;
+  }
+  .frame-child8 {
+    height: 22px;
+    width: 110px;
+    position: relative;
+    border-radius: 5px;
+    background-color: rgba(235, 14, 134, 0.5);
+    display: none;
+  }
+  .place-bid6 {
+    position: relative;
+    font-size: 10px;
+    display: inline-block;
+    font-family: Inter;
+    color: #fff;
+    text-align: left;
+    min-width: 45px;
+    z-index: 3;
+  }
+  .rectangle-parent7 {
+    cursor: pointer;
+    border: 0;
+    padding: 5px 29px;
+    background-color: rgba(235, 14, 134, 0.5);
+    flex: 1;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    white-space: nowrap;
+    z-index: 2;
+  }
+  .data-aggregator:hover,
+  .rectangle-parent7:hover {
+    background-color: rgba(255, 51, 173, 0.5);
+  }
+  .frame-parent15 {
+    flex: 1;
+    flex-direction: row;
+    gap: 9px;
+  }
+  .frame-parent15,
+  .symbol-set,
+  .symbol-set-inner {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .symbol-set-inner {
+    align-self: stretch;
+    flex-direction: row;
+    padding: 0 2px 0 1px;
+  }
+  .symbol-set {
+    width: 210px;
+    border-radius: 10px;
+    background: linear-gradient(
+      180deg,
+      rgba(255, 0, 139, 0.5),
+      rgba(176, 0, 96, 0.5) 55.5%
+    );
+    flex-shrink: 0;
+    flex-direction: column;
+    padding: 7px 11px 11px;
+    box-sizing: border-box;
+    gap: 8.5px;
+    z-index: 1;
+  }
+  .caret-right-fill-3-icon,
+  .vector-icon4 {
+    position: absolute;
+    margin: 0 !important;
+    flex-shrink: 0;
+    z-index: 1;
+  }
+  .vector-icon4 {
+    height: 11.5px;
+    width: 7.5px;
+    top: 134.3px;
+    right: 4.8px;
+  }
+  .caret-right-fill-3-icon {
+    height: 16px;
+    width: 16px;
+    top: 130px;
+    left: 0;
+    overflow: hidden;
+    object-fit: contain;
+  }
+  .frame-parent,
+  .sequence-analyzer-parent {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .sequence-analyzer-parent {
+    width: 702px;
+    overflow-x: auto;
+    flex-direction: row;
+    padding: 0 29px;
+    box-sizing: border-box;
+    position: relative;
+    gap: 14px;
+  }
+  .frame-parent {
+    align-self: stretch;
+    flex-direction: column;
+    gap: 26px;
+  }
+  .beautiful {
+    color: #fff;
+  }
+  .artwork {
+    color: #6d78c0;
+  }
+  .explore-the-creative,
+  .get-more-beautiful-container {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-family: inherit;
+    z-index: 1;
+  }
+  .get-more-beautiful-container {
+    width: 264px;
+    font-weight: 700;
+    display: inline-block;
+  }
+  .explore-the-creative {
+    flex: 1;
+    font-weight: 400;
+  }
+  .whatsapp-image-2024-04-13-at-110 {
+    position: absolute;
+    top: 13px;
+    left: 109px;
+    border-radius: 9px;
+    width: 149px;
+    height: 121px;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .whatsapp-image-2024-04-13-at-111,
+  .whatsapp-image-2024-04-13-at-112 {
+    position: absolute;
+    top: 141px;
+    left: 204px;
+    border-radius: 10px;
+    width: 116px;
+    height: 116px;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .whatsapp-image-2024-04-13-at-112 {
+    top: 51px;
+    left: 0;
+    border-radius: 5px;
+    width: 100px;
+    height: 148px;
+    z-index: 2;
+  }
+  .input-filter {
+    position: absolute;
+    top: 0;
+    left: 22px;
+    border-radius: 50%;
+    background-color: #442fa7;
+    width: 13px;
+    height: 13px;
+    z-index: 1;
+  }
+  .condition-splitter1,
+  .data-transformer,
+  .ellipse-div {
+    position: absolute;
+    top: 233px;
+    left: 65px;
+    border-radius: 50%;
+    background-color: #7b6048;
+    width: 21px;
+    height: 21px;
+    z-index: 1;
+  }
+  .data-transformer,
+  .ellipse-div {
+    top: 12px;
+    left: 310px;
+    background-color: #442fa7;
+    border: 0 solid #126a62;
+    box-sizing: border-box;
+    width: 22px;
+    height: 22px;
+  }
+  .ellipse-div {
+    top: 41px;
+    left: 330px;
+    background-color: #6b1b58;
+    width: 8px;
+    height: 8px;
+  }
+  .process-splitter,
+  .result-merger {
+    position: absolute;
+    top: 13px;
+    left: 44px;
+    border-radius: 50%;
+    background-color: #6c1b57;
+    width: 10px;
+    height: 10px;
+    z-index: 1;
+  }
+  .result-merger {
+    top: 217px;
+    left: 94px;
+    background-color: #83114f;
+    width: 26px;
+    height: 26px;
+  }
+  .whatsapp-image-2024-04-13-at-113,
+  .whatsapp-image-2024-04-13-at-114 {
+    position: absolute;
+    top: 141px;
+    left: 105px;
+    border-radius: 5px;
+    width: 89px;
+    height: 88px;
+    object-fit: cover;
+    z-index: 2;
+  }
+  .whatsapp-image-2024-04-13-at-114 {
+    top: 143px;
+    left: 328px;
+    width: 55px;
+    height: 77px;
+    z-index: 1;
+  }
+  .whatsapp-image-2024-04-13-at-1-parent {
+    height: 257px;
+    width: 383px;
+    position: absolute;
+    margin: 0 !important;
+    top: -134px;
+    right: -380px;
+  }
+  .explore-the-creative-world-of-parent,
+  .get-more-beautiful-artwork-her-parent {
+    align-self: stretch;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .explore-the-creative-world-of-parent {
+    flex-direction: row;
+    position: relative;
+    font-size: 12px;
+    color: #fff;
+  }
+  .get-more-beautiful-artwork-her-parent {
+    flex-direction: column;
+    gap: 6px;
+  }
+  .data-aggregator-child {
+    height: 24px;
+    width: 110px;
+    position: relative;
+    border-radius: 5px;
+    background-color: rgba(235, 14, 134, 0.5);
+    display: none;
+  }
+  .explore-now {
+    position: relative;
+    font-size: 6px;
+    display: inline-block;
+    font-family: Inter;
+    color: #fff;
+    text-align: left;
+    min-width: 37px;
+    z-index: 2;
+  }
+  .data-aggregator {
+    cursor: pointer;
+    border: 0;
+    padding: 9px 34px 8px;
+    background-color: rgba(235, 14, 134, 0.5);
+    flex: 1;
+    border-radius: 5px;
+    flex-direction: row;
+    white-space: nowrap;
+    z-index: 1;
+  }
+  .data-aggregator,
+  .data-aggregator-wrapper,
+  .frame-parent18 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .data-aggregator-wrapper {
+    width: 118px;
+    flex-direction: row;
+    padding: 0 4px;
+    box-sizing: border-box;
+  }
+  .frame-parent18 {
+    width: 300px;
+    flex-direction: column;
+    gap: 19px;
+  }
+  .whatsapp-image-2024-04-13-at-115,
+  .whatsapp-image-2024-04-13-at-116 {
+    height: 74px;
+    width: 54px;
+    position: relative;
+    border-radius: 5px;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .whatsapp-image-2024-04-13-at-116 {
+    height: 73px;
+    width: 53px;
+  }
+  .whatsapp-image-2024-04-13-at-1-frame {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 4px 0 0;
+  }
+  .output-collector {
+    width: 29px;
+    height: 29px;
+    position: relative;
+    border-radius: 50%;
+    background-color: #7710ad;
+    z-index: 1;
+  }
+  .frame-parent19 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: 115px;
+  }
+  .frame-parent17,
+  .whatsapp-image-2024-04-13-at-1-group {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 10px;
+  }
+  .frame-parent17 {
+    align-self: stretch;
+    justify-content: space-between;
+    padding: 0 0 23px;
+    gap: 20px;
+    color: #f08;
+  }
+  .popular-collections {
+    margin: 0;
+    align-self: stretch;
+    position: relative;
+    font-size: inherit;
+    font-weight: 700;
+    font-family: inherit;
+    z-index: 1;
+  }
+  .data-pumper {
+    width: 257px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 1px 0 0;
+    box-sizing: border-box;
+  }
+  .frame-child9 {
+    height: 31px;
+    width: 114px;
+    position: relative;
+    border-radius: 5px;
+    background-color: rgba(235, 14, 134, 0.5);
+    display: none;
+  }
+  .logic-tree-icon,
+  .vector-icon5 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+  }
+  .vector-icon5 {
+    top: 6.5px;
+    left: 1px;
+    width: 4px;
+    height: 3.5px;
+    z-index: 3;
+  }
+  .filter-chain {
+    height: 11px;
+    width: 11px;
+    position: relative;
+  }
+  .explore-all {
+    align-self: stretch;
+    position: relative;
+    font-size: 10px;
+    font-weight: 500;
+    font-family: Inter;
+    color: #fff;
+    text-align: left;
+    z-index: 2;
+  }
+  .explore-all-wrapper,
+  .rectangle-parent8 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .explore-all-wrapper {
+    flex: 1;
+    flex-direction: column;
+    padding: 7.3px 0 0;
+  }
+  .rectangle-parent8 {
+    cursor: pointer;
+    border: 0;
+    padding: 2.7px 17px 9px 26.3px;
+    background-color: rgba(235, 14, 134, 0.5);
+    width: 114px;
+    border-radius: 5px;
+    flex-direction: row;
+    box-sizing: border-box;
+    gap: 1.7px;
+    z-index: 1;
+  }
+  .data-pumper-parent,
+  .frame-wrapper10 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    max-width: 100%;
+  }
+  .data-pumper-parent {
+    flex: 1;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  .frame-wrapper10 {
+    align-self: stretch;
+    justify-content: flex-start;
+    padding: 0 0 0 2px;
+    box-sizing: border-box;
+  }
+  .data-flow-handler-child {
+    width: 207px;
+    height: 176px;
+    position: relative;
+    border-radius: 10px;
+    background: linear-gradient(
+      180deg,
+      rgba(255, 0, 139, 0.5),
+      rgba(133, 8, 76, 0.5) 51%
+    );
+    display: none;
+  }
+  .person-lines-fill-icon {
+    height: 30px;
+    width: 26px;
+    position: relative;
+    z-index: 2;
+  }
+  .created-by-anurag,
+  .sanskar-gupta {
+    position: relative;
+    display: inline-block;
+    min-width: 58px;
+    z-index: 2;
+  }
+  .created-by-anurag {
+    font-size: 6px;
+    min-width: 77px;
+  }
+  .state-updater,
+  .state-updater-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .state-updater {
+    justify-content: flex-start;
+    gap: 6px;
+  }
+  .state-updater-wrapper {
+    justify-content: flex-end;
+    padding: 0 0 2px;
+  }
+  .data-processing-chain,
+  .data-validation {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+  }
+  .data-processing-chain {
+    align-items: flex-end;
+    gap: 11px;
+  }
+  .data-validation {
+    align-items: flex-start;
+    padding: 0 2px;
+  }
+  .whatsapp-image-2024-04-13-at-117 {
+    height: 124px;
+    flex: 1;
+    position: relative;
+    border-radius: 10px;
+    max-width: 100%;
+    overflow: hidden;
+    object-fit: cover;
+    z-index: 2;
+  }
+  .whatsapp-image-2024-04-13-at-118 {
+    height: 75px;
+    width: 96px;
+    position: relative;
+    border-radius: 10px;
+    object-fit: cover;
+    z-index: 2;
+  }
+  .whatsapp-image-2024-04-13-at-1-parent1 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: 3px;
+  }
+  .data-flow-handler,
+  .data-flow-handler-item {
+    border-radius: 10px;
+    background: linear-gradient(
+      180deg,
+      rgba(255, 0, 139, 0.5),
+      rgba(133, 8, 76, 0.5) 51%
+    );
+  }
+  .data-flow-handler {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 8px;
+    gap: 6px;
+    z-index: 1;
+  }
+  .data-flow-handler-item {
+    width: 207px;
+    height: 176px;
+    position: relative;
+    display: none;
+  }
+  .person-lines-fill-icon1 {
+    height: 30px;
+    width: 26px;
+    position: relative;
+    z-index: 2;
+  }
+  .created-by-susan,
+  .debanshi-deb {
+    position: relative;
+    display: inline-block;
+    min-width: 55px;
+    z-index: 2;
+  }
+  .created-by-susan {
+    font-size: 6px;
+    min-width: 73px;
+  }
+  .debanshi-deb-parent,
+  .frame-wrapper11 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .debanshi-deb-parent {
+    gap: 4px;
+  }
+  .frame-wrapper11 {
+    padding: 1px 0 0;
+  }
+  .data-flow-handler-inner,
+  .person-lines-fill-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .person-lines-fill-parent {
+    gap: 11px;
+  }
+  .data-flow-handler-inner {
+    padding: 0 1px;
+  }
+  .whatsapp-image-2024-04-13-at-119 {
+    height: 124px;
+    flex: 1;
+    position: relative;
+    border-radius: 10px;
+    max-width: 100%;
+    overflow: hidden;
+    object-fit: cover;
+    z-index: 2;
+  }
+  .whatsapp-image-2024-04-13-at-120 {
+    height: 75px;
+    width: 96px;
+    position: relative;
+    border-radius: 10px;
+    object-fit: cover;
+    z-index: 2;
+  }
+  .whatsapp-image-2024-04-13-at-1-parent2 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: 3px;
+  }
+  .data-flow-handler-parent,
+  .data-flow-handler1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .data-flow-handler1 {
+    align-self: stretch;
+    border-radius: 10px;
+    background: linear-gradient(
+      180deg,
+      rgba(255, 0, 139, 0.5),
+      rgba(133, 8, 76, 0.5) 51%
+    );
+    padding: 12px 8px 8px 9px;
+    gap: 2px;
+    z-index: 1;
+  }
+  .data-flow-handler-parent {
+    width: 207px;
+    flex-shrink: 0;
+    gap: 27px;
+  }
+  .data-flow-handler-child1 {
+    width: 207px;
+    height: 176px;
+    position: relative;
+    border-radius: 10px;
+    background: linear-gradient(
+      180deg,
+      rgba(255, 0, 139, 0.5),
+      rgba(133, 8, 76, 0.5) 51%
+    );
+    display: none;
+  }
+  .person-lines-fill-icon2 {
+    height: 30px;
+    width: 26px;
+    position: relative;
+    z-index: 2;
+  }
+  .created-by-flod,
+  .swagkiddo {
+    position: relative;
+    display: inline-block;
+    min-width: 44px;
+    z-index: 2;
+  }
+  .created-by-flod {
+    white-space: pre-wrap;
+    min-width: 66px;
+  }
+  .created-by-flod-mars-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 0 0 1px;
+    font-size: 6px;
+  }
+  .frame-wrapper12,
+  .swagkiddo-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .swagkiddo-parent {
+    gap: 3px;
+  }
+  .frame-wrapper12 {
+    padding: 2px 0 0;
+  }
+  .data-flow-handler-inner1,
+  .person-lines-fill-group {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .person-lines-fill-group {
+    gap: 4px;
+  }
+  .data-flow-handler-inner1 {
+    padding: 0 5px;
+  }
+  .whatsapp-image-2024-04-13-at-121,
+  .whatsapp-image-2024-04-13-at-122 {
+    flex: 1;
+    position: relative;
+    border-radius: 10px;
+    max-width: 100%;
+    overflow: hidden;
+    object-fit: cover;
+    z-index: 2;
+  }
+  .whatsapp-image-2024-04-13-at-121 {
+    height: 124px;
+  }
+  .whatsapp-image-2024-04-13-at-122 {
+    align-self: stretch;
+    max-height: 100%;
+  }
+  .whatsapp-image-2024-04-13-at-1-wrapper1 {
+    height: 76px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 0 1px;
+    box-sizing: border-box;
+  }
+  .whatsapp-image-2024-04-13-at-1-parent3 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: 4px;
+  }
+  .data-flow-handler2,
+  .frame-child10 {
+    border-radius: 10px;
+    background: linear-gradient(
+      180deg,
+      rgba(255, 0, 139, 0.5),
+      rgba(133, 8, 76, 0.5) 51%
+    );
+  }
+  .data-flow-handler2 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 11px 7px 8px 9px;
+    gap: 3px;
+    z-index: 1;
+  }
+  .frame-child10 {
+    width: 207px;
+    height: 176px;
+    position: relative;
+    display: none;
+  }
+  .prince-ape,
+  .union-icon3 {
+    position: relative;
+    z-index: 2;
+  }
+  .union-icon3 {
+    height: 22.4px;
+    width: 26.1px;
+    min-height: 22px;
+  }
+  .prince-ape {
+    display: inline-block;
+    min-width: 42px;
+  }
+  .data-processor,
+  .union-group {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .data-processor {
+    flex-direction: column;
+    padding: 9.5px 0 0;
+  }
+  .union-group {
+    flex-direction: row;
+    gap: 8.7px;
+  }
+  .created-by-amisha {
+    position: relative;
+    display: inline-block;
+    min-width: 74px;
+    z-index: 2;
+  }
+  .created-by-amisha-singh-wrapper {
+    flex-direction: row;
+    padding: 0 0 0 34.8px;
+    font-size: 6px;
+  }
+  .created-by-amisha-singh-wrapper,
+  .frame-parent22,
+  .frame-wrapper13 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .frame-parent22 {
+    flex-direction: column;
+    gap: 2.1px;
+  }
+  .frame-wrapper13 {
+    flex-direction: row;
+    padding: 0 1px 0 1.2px;
+  }
+  .whatsapp-image-2024-04-13-at-123 {
+    height: 124px;
+    flex: 1;
+    position: relative;
+    border-radius: 10px;
+    max-width: 100%;
+    overflow: hidden;
+    object-fit: cover;
+    z-index: 2;
+  }
+  .whatsapp-image-2024-04-13-at-124 {
+    height: 75px;
+    width: 96px;
+    position: relative;
+    border-radius: 10px;
+    object-fit: cover;
+    z-index: 2;
+  }
+  .whatsapp-image-2024-04-13-at-1-parent4 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: 3px;
+  }
+  .data-flow-handler-group,
+  .rectangle-parent9 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .rectangle-parent9 {
+    align-self: stretch;
+    border-radius: 10px;
+    background: linear-gradient(
+      180deg,
+      rgba(255, 0, 139, 0.5),
+      rgba(133, 8, 76, 0.5) 51%
+    );
+    padding: 2.5px 8px 8px 9px;
+    gap: 10px;
+    z-index: 1;
+  }
+  .data-flow-handler-group {
+    width: 207px;
+    flex-shrink: 0;
+    gap: 27px;
+  }
+  .data-flow-handler-child2 {
+    width: 207px;
+    height: 176px;
+    position: relative;
+    border-radius: 10px;
+    background: linear-gradient(
+      180deg,
+      rgba(255, 0, 139, 0.5),
+      rgba(133, 8, 76, 0.5) 51%
+    );
+    display: none;
+  }
+  .person-lines-fill-icon3 {
+    height: 30px;
+    width: 26px;
+    position: relative;
+    z-index: 2;
+  }
+  .created-by-arian,
+  .zumaki-muzan {
+    position: relative;
+    display: inline-block;
+    min-width: 57px;
+    z-index: 2;
+  }
+  .created-by-arian {
+    font-size: 6px;
+    min-width: 62px;
+  }
+  .error-handler-chain {
+    flex-direction: column;
+    gap: 3px;
+  }
+  .error-handler-chain,
+  .error-handler-chain-wrapper,
+  .person-lines-fill-container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .error-handler-chain-wrapper {
+    flex-direction: column;
+    padding: 2px 0 0;
+  }
+  .person-lines-fill-container {
+    flex-direction: row;
+    gap: 12px;
+  }
+  .whatsapp-image-2024-04-13-at-125 {
+    height: 124px;
+    flex: 1;
+    position: relative;
+    border-radius: 10px;
+    max-width: 100%;
+    overflow: hidden;
+    object-fit: cover;
+    z-index: 2;
+  }
+  .whatsapp-image-2024-04-13-at-126 {
+    height: 75px;
+    width: 96px;
+    position: relative;
+    border-radius: 10px;
+    object-fit: cover;
+    z-index: 2;
+  }
+  .whatsapp-image-2024-04-13-at-1-parent5 {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: 3px;
+  }
+  .data-flow-handler-inner2 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 0 0 1px;
+  }
+  .data-flow-handler3,
+  .frame-child11 {
+    border-radius: 10px;
+    background: linear-gradient(
+      180deg,
+      rgba(255, 0, 139, 0.5),
+      rgba(133, 8, 76, 0.5) 51%
+    );
+  }
+  .data-flow-handler3 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 11px 7px 8px 9px;
+    gap: 3px;
+    z-index: 1;
+  }
+  .frame-child11 {
+    width: 207px;
+    height: 176px;
+    position: relative;
+    display: none;
+  }
+  .amazing-opo,
+  .union-icon4 {
+    position: relative;
+    z-index: 2;
+  }
+  .union-icon4 {
+    height: 22.4px;
+    width: 26.1px;
+  }
+  .amazing-opo {
+    display: inline-block;
+    min-width: 52px;
+  }
+  .amazing-opo-wrapper,
+  .union-container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .amazing-opo-wrapper {
+    flex-direction: column;
+    padding: 8.5px 0 0;
+  }
+  .union-container {
+    flex-direction: row;
+    gap: 7.9px;
+  }
+  .created-by-nayna {
+    position: relative;
+    display: inline-block;
+    min-width: 69px;
+    z-index: 2;
+  }
+  .created-by-nayna-bisht-wrapper {
+    flex-direction: row;
+    padding: 0 0 0 34px;
+    font-size: 6px;
+  }
+  .created-by-nayna-bisht-wrapper,
+  .frame-parent23,
+  .frame-wrapper14 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .frame-parent23 {
+    flex-direction: column;
+    gap: 0.1px;
+  }
+  .frame-wrapper14 {
+    flex-direction: row;
+    padding: 0 5px;
+  }
+  .whatsapp-image-2024-04-13-at-127 {
+    height: 124px;
+    flex: 1;
+    position: relative;
+    border-radius: 10px;
+    max-width: 100%;
+    overflow: hidden;
+    object-fit: cover;
+    z-index: 2;
+  }
+  .whatsapp-image-2024-04-13-at-128 {
+    height: 75px;
+    width: 96px;
+    position: relative;
+    border-radius: 10px;
+    object-fit: cover;
+    z-index: 2;
+  }
+  .whatsapp-image-2024-04-13-at-1-parent6 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: 3px;
+  }
+  .data-flow-handler-container,
+  .rectangle-parent10 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .rectangle-parent10 {
+    align-self: stretch;
+    border-radius: 10px;
+    background: linear-gradient(
+      180deg,
+      rgba(255, 0, 139, 0.5),
+      rgba(133, 8, 76, 0.5) 51%
+    );
+    padding: 3.5px 8px 8px 9px;
+    gap: 11px;
+    z-index: 1;
+  }
+  .data-flow-handler-container {
+    width: 207px;
+    flex-shrink: 0;
+    gap: 27px;
+  }
+  .frame-parent21 {
+    width: 643px;
+    overflow-x: auto;
+    flex-direction: row;
+    gap: 11px;
+    font-size: 8px;
+  }
+  .frame-parent20,
+  .frame-parent21,
+  .frame-wrapper9 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .frame-parent20 {
+    flex: 1;
+    flex-direction: column;
+    gap: 31px;
+  }
+  .frame-wrapper9 {
+    width: 665px;
+    flex-direction: row;
+    padding: 0 10px;
+    box-sizing: border-box;
+    font-size: 24px;
+  }
+  .popular-artist,
+  .view-all {
+    position: relative;
+    display: inline-block;
+    z-index: 1;
+  }
+  .popular-artist {
+    margin: 0;
+    font-size: inherit;
+    font-weight: 700;
+    font-family: inherit;
+    min-width: 123px;
+  }
+  .view-all {
+    min-width: 40px;
+  }
+  .loop-control {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 6px 0 0;
+    font-size: 10px;
+  }
+  .input-collector,
+  .output-dispenser {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    max-width: 100%;
+  }
+  .output-dispenser {
+    flex: 1;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  .input-collector {
+    width: 605px;
+    justify-content: flex-start;
+    padding: 0 2px;
+    box-sizing: border-box;
+  }
+  .output-assembler-child {
+    height: 53px;
+    width: 189px;
+    position: relative;
+    border-radius: 10px;
+    background: linear-gradient(90deg, #061da9, #000e69);
+    display: none;
+  }
+  .union-icon5 {
+    width: 27.1px;
+    height: 23.9px;
+    position: relative;
+    z-index: 2;
+  }
+  .geometry-combiner {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 0 10.8px;
+  }
+  .super-mario,
+  .tree-structure {
+    position: relative;
+    display: inline-block;
+    min-width: 60px;
+    z-index: 2;
+  }
+  .tree-structure {
+    min-width: 18px;
+  }
+  .parallel-processor,
+  .synchronizer {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .parallel-processor {
+    flex-direction: row;
+    padding: 0 7px;
+    font-size: 7px;
+  }
+  .synchronizer {
+    flex-direction: column;
+    gap: 1px;
+  }
+  .image-compressor-child,
+  .output-assembler {
+    border-radius: 10px;
+    background: linear-gradient(90deg, #061da9, #000e69);
+  }
+  .output-assembler {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    padding: 0.3px 11.4px 18px;
+    box-sizing: border-box;
+    gap: 13.5px;
+    min-width: 123px;
+    z-index: 1;
+  }
+  .image-compressor-child {
+    height: 53px;
+    width: 189px;
+    position: relative;
+    display: none;
+  }
+  .union-icon6 {
+    width: 27.1px;
+    height: 23.9px;
+    position: relative;
+    z-index: 2;
+  }
+  .geometry-combiner1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 0 10.8px;
+  }
+  .b,
+  .elena-sharma {
+    position: relative;
+    display: inline-block;
+    min-width: 67px;
+    z-index: 2;
+  }
+  .b {
+    min-width: 18px;
+  }
+  .container,
+  .elena-sharma-parent {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .container {
+    flex-direction: row;
+    padding: 0 9px;
+    font-size: 7px;
+  }
+  .elena-sharma-parent {
+    flex-direction: column;
+    gap: 2px;
+  }
+  .error-logger,
+  .image-compressor {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+  }
+  .image-compressor {
+    flex: 1;
+    border-radius: 10px;
+    background: linear-gradient(90deg, #061da9, #000e69);
+    align-items: flex-end;
+    padding: 1.3px 13.2px 17px;
+    box-sizing: border-box;
+    gap: 9.7px;
+    min-width: 123px;
+    z-index: 1;
+  }
+  .error-logger {
+    align-self: stretch;
+    align-items: flex-start;
+    gap: 32px;
+  }
+  .frame-child12 {
+    height: 53px;
+    width: 189px;
+    position: relative;
+    border-radius: 10px;
+    background: linear-gradient(90deg, #061da9, #000e69);
+    display: none;
+  }
+  .union-icon7 {
+    width: 27.1px;
+    height: 23.9px;
+    position: relative;
+    z-index: 2;
+  }
+  .union-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 0 11.1px;
+  }
+  .b1,
+  .lazy-laura {
+    position: relative;
+    display: inline-block;
+    min-width: 53px;
+    z-index: 2;
+  }
+  .b1 {
+    font-size: 7px;
+    min-width: 18px;
+  }
+  .lazy-laura-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 1px;
+  }
+  .frame-child13,
+  .rectangle-parent11 {
+    border-radius: 10px;
+    background: linear-gradient(90deg, #061da9, #000e69);
+  }
+  .rectangle-parent11 {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    padding: 2px 11.4px 16px;
+    box-sizing: border-box;
+    gap: 16.5px;
+    min-width: 123px;
+    z-index: 1;
+  }
+  .frame-child13 {
+    height: 53px;
+    width: 189px;
+    position: relative;
+    display: none;
+  }
+  .union-icon8 {
+    width: 27.1px;
+    height: 23.9px;
+    position: relative;
+    z-index: 2;
+  }
+  .union-frame {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 0 11.1px;
+  }
+  .b2,
+  .beardo-singh {
+    position: relative;
+    display: inline-block;
+    min-width: 66px;
+    z-index: 2;
+  }
+  .b2 {
+    font-size: 8px;
+    min-width: 21px;
+  }
+  .beardo-singh-parent,
+  .rectangle-parent12 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 1px;
+  }
+  .rectangle-parent12 {
+    flex: 1;
+    border-radius: 10px;
+    background: linear-gradient(90deg, #061da9, #000e69);
+    flex-direction: row;
+    align-items: flex-end;
+    padding: 4px 13.2px 14px;
+    box-sizing: border-box;
+    gap: 9.7px;
+    min-width: 123px;
+    z-index: 1;
+  }
+  .data-sorter,
+  .error-logger1 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .error-logger1 {
+    align-self: stretch;
+    flex-direction: row;
+    gap: 32px;
+  }
+  .data-sorter {
+    flex: 1;
+    flex-direction: column;
+    gap: 21px;
+    min-width: 266px;
+    max-width: 100%;
+  }
+  .data-merger-x-child {
+    height: 53px;
+    width: 189px;
+    position: relative;
+    border-radius: 10px;
+    background: linear-gradient(90deg, #061da9, #000e69);
+    display: none;
+  }
+  .union-icon9 {
+    height: 23.9px;
+    width: 27.1px;
+    position: relative;
+    z-index: 2;
+  }
+  .b3,
+  .princess-ape {
+    position: relative;
+    display: inline-block;
+    min-width: 65px;
+    z-index: 2;
+  }
+  .b3 {
+    font-size: 7px;
+    min-width: 18px;
+  }
+  .data-merger-x-inner,
+  .princess-ape-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .princess-ape-parent {
+    gap: 4px;
+  }
+  .data-merger-x-inner {
+    padding: 11.7px 0 0;
+  }
+  .data-merger-x,
+  .data-merger-x-item {
+    border-radius: 10px;
+    background: linear-gradient(90deg, #061da9, #000e69);
+  }
+  .data-merger-x {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 2.3px 14px 15px;
+    gap: 8.9px;
+    z-index: 1;
+  }
+  .data-merger-x-item {
+    height: 53px;
+    width: 189px;
+    position: relative;
+    display: none;
+  }
+  .union-icon10 {
+    height: 23.9px;
+    width: 27.1px;
+    position: relative;
+    z-index: 2;
+  }
+  .ace-ryuga,
+  .b4 {
+    position: relative;
+    display: inline-block;
+    min-width: 53px;
+    z-index: 2;
+  }
+  .b4 {
+    min-width: 26px;
+  }
+  .ace-ryuga-parent,
+  .data-merger-x-inner1,
+  .frame {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .frame {
+    flex-direction: row;
+    padding: 0 1px;
+  }
+  .ace-ryuga-parent,
+  .data-merger-x-inner1 {
+    flex-direction: column;
+  }
+  .ace-ryuga-parent {
+    gap: 2px;
+  }
+  .data-merger-x-inner1 {
+    padding: 14px 0 0;
+  }
+  .data-merger-x1 {
+    align-self: stretch;
+    border-radius: 10px;
+    background: linear-gradient(90deg, #061da9, #000e69);
+    flex-direction: row;
+    padding: 2px 14px 11px;
+    gap: 8.9px;
+    z-index: 1;
+  }
+  .data-merger-x-parent,
+  .data-merger-x1,
+  .geometry-modifier {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .data-merger-x-parent {
+    width: 189px;
+    flex-direction: column;
+    gap: 21px;
+    min-width: 189px;
+  }
+  .geometry-modifier {
+    align-self: stretch;
+    flex-direction: row;
+    gap: 32px;
+    max-width: 100%;
+  }
+  .link-provider-x-child {
+    height: 53px;
+    width: 189px;
+    position: relative;
+    border-radius: 10px;
+    background: linear-gradient(90deg, #061da9, #000e69);
+    display: none;
+  }
+  .union-icon11 {
+    width: 27.1px;
+    height: 23.9px;
+    position: relative;
+    z-index: 2;
+  }
+  .union-wrapper1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 0 12.4px;
+  }
+  .anurag-singh,
+  .b5 {
+    position: relative;
+    display: inline-block;
+    min-width: 66px;
+    z-index: 2;
+  }
+  .b5 {
+    min-width: 21px;
+  }
+  .anurag-singh-parent,
+  .wrapper1 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .wrapper1 {
+    flex-direction: row;
+    padding: 0 1px;
+    font-size: 8px;
+  }
+  .anurag-singh-parent {
+    flex-direction: column;
+    gap: 1px;
+  }
+  .link-provider-x,
+  .link-provider-x-item {
+    border-radius: 10px;
+    background: linear-gradient(90deg, #061da9, #000e69);
+  }
+  .link-provider-x {
+    flex: 0.8794;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    padding: 2.7px 11.4px 14px;
+    box-sizing: border-box;
+    gap: 16.5px;
+    min-width: 142px;
+    z-index: 1;
+  }
+  .link-provider-x-item {
+    height: 53px;
+    width: 189px;
+    position: relative;
+    display: none;
+  }
+  .union-icon12 {
+    height: 23.9px;
+    width: 27.1px;
+    position: relative;
+    z-index: 2;
+  }
+  .b6,
+  .silky-jain {
+    position: relative;
+    display: inline-block;
+    min-width: 47px;
+    z-index: 2;
+  }
+  .b6 {
+    font-size: 8px;
+    min-width: 21px;
+  }
+  .link-provider-x-inner,
+  .link-provider-x1,
+  .silky-jain-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .silky-jain-parent {
+    gap: 3px;
+  }
+  .link-provider-x-inner,
+  .link-provider-x1 {
+    padding: 12.3px 0 0;
+  }
+  .link-provider-x1 {
+    flex: 0.8603;
+    border-radius: 10px;
+    background: linear-gradient(90deg, #061da9, #000e69);
+    flex-direction: row;
+    padding: 1.7px 13.2px 14px;
+    box-sizing: border-box;
+    gap: 10.7px;
+    min-width: 142px;
+    z-index: 1;
+  }
+  .union-icon13 {
+    height: 23.9px;
+    width: 27.1px;
+    position: absolute;
+    margin: 0 !important;
+    top: -1.3px;
+    left: 14px;
+    z-index: 1;
+  }
+  .frame-child14 {
+    height: 53px;
+    width: 189px;
+    position: relative;
+    border-radius: 10px;
+    background: linear-gradient(90deg, #061da9, #000e69);
+    display: none;
+  }
+  .union-icon14 {
+    height: 23.9px;
+    width: 27.1px;
+    position: relative;
+    z-index: 4;
+  }
+  .b7,
+  .techno-tribe {
+    position: relative;
+    display: inline-block;
+    min-width: 64px;
+    z-index: 4;
+  }
+  .b7 {
+    min-width: 26px;
+  }
+  .frame-wrapper15,
+  .techno-tribe-parent,
+  .wrapper2 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .wrapper2 {
+    flex-direction: row;
+    padding: 0 1px;
+  }
+  .frame-wrapper15,
+  .techno-tribe-parent {
+    flex-direction: column;
+  }
+  .techno-tribe-parent {
+    gap: 2px;
+  }
+  .frame-wrapper15 {
+    padding: 11.3px 0 0;
+  }
+  .rectangle-parent13 {
+    flex: 1;
+    border-radius: 10px;
+    background: linear-gradient(90deg, #061da9, #000e69);
+    padding: 2.7px 14px 13px;
+    gap: 8.9px;
+    z-index: 3;
+  }
+  .image-editor,
+  .link-provider-x2,
+  .output-display-x,
+  .rectangle-parent13 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .link-provider-x2 {
+    flex: 1;
+    position: relative;
+    min-width: 142px;
+  }
+  .image-editor,
+  .output-display-x {
+    align-self: stretch;
+    gap: 32px;
+  }
+  .image-editor {
+    flex-direction: column;
+    gap: 21px;
+    max-width: 100%;
+    font-size: 10px;
+  }
+  .link-manager {
+    flex: 1;
+    flex-direction: column;
+    gap: 41px;
+  }
+  .frame-parent16,
+  .link-manager,
+  .link-manager-wrapper {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .link-manager-wrapper {
+    width: 663px;
+    flex-direction: row;
+    padding: 0 16px;
+    box-sizing: border-box;
+    font-size: 18px;
+  }
+  .frame-parent16 {
+    flex: 1;
+    flex-direction: column;
+    gap: 45px;
+  }
+  .frame-wrapper8,
+  .rectangle-parent,
+  .union-parent {
+    display: flex;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .frame-wrapper8 {
+    width: 720px;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 18px;
+    font-size: 28px;
+  }
+  .rectangle-parent,
+  .union-parent {
+    justify-content: flex-start;
+  }
+  .rectangle-parent {
+    flex: 1;
+    background: linear-gradient(
+      180deg,
+      #390196,
+      #001076 7%,
+      #6a73a9 17.5%,
+      #030d4d 22.5%,
+      #03254a 38.5%,
+      #03224f 54%,
+      #001073 69%,
+      #15216c 82.5%,
+      #000
+    );
+    flex-direction: column;
+    align-items: flex-end;
+    padding: 23px 50px 0;
+    gap: 155px;
+    text-align: left;
+    font-size: 10px;
+    color: #fff;
+    font-family: Inter;
+  }
+  .union-parent {
+    width: 837px;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0 0 0 3px;
+    position: relative;
+  }
+  .what-are-you {
+    margin: 0;
+  }
+  .explore-now1 {
+    margin: 0;
+    white-space: pre-wrap;
+  }
+  .what-are-you-container {
+    margin: 0;
+    align-self: stretch;
+    height: 68px;
+    position: relative;
+    font-size: inherit;
+    font-weight: 500;
+    font-family: inherit;
+    display: inline-block;
+    flex-shrink: 0;
+    z-index: 1;
+  }
+  .visualization-engine-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 4px;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+  }
+  .get-started-now {
+    position: absolute;
+    top: 6px;
+    left: 19px;
+    font-size: 10px;
+    font-weight: 500;
+    font-family: Inter;
+    color: #fff;
+    text-align: left;
+    display: inline-block;
+    width: 85px;
+    height: 16px;
+    min-width: 85px;
+    z-index: 2;
+  }
+  .visualization-engine {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    height: 25px;
+    width: 115px;
+    position: relative;
+  }
+  .visualization-engine-wrapper {
+    width: 341px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 20px;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .what-are-you-waiting-for-expl-parent {
+    width: 386px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 17px;
+    max-width: 100%;
+  }
+  .value-array {
+    width: 806px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 20px 126px;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .q-tattoo-logo-720-tatto-logo-p-icon1 {
+    width: 82px;
+    height: 34px;
+    position: relative;
+    object-fit: cover;
+    z-index: 2;
+  }
+  .nft-platform-specifically {
+    height: 39px;
+    flex: 1;
+    position: relative;
+    display: inline-block;
+    z-index: 1;
+  }
+  .nft-platform-specifically-for-wrapper,
+  .q-tattoo-logo-720-tatto-logo-p-group {
+    align-self: stretch;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .nft-platform-specifically-for-wrapper {
+    flex-direction: row;
+    padding: 0 0 0 6px;
+  }
+  .q-tattoo-logo-720-tatto-logo-p-group {
+    flex-direction: column;
+  }
+  .rectangle-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 4px;
+    width: 100%;
+    height: 100%;
+    display: none;
+  }
+  .facebook-1-icon {
+    position: absolute;
+    top: 4px;
+    left: 4px;
+    width: 10px;
+    height: 10px;
+    overflow: hidden;
+    z-index: 2;
+  }
+  .frame-child15,
+  .vector-parent1 {
+    border-radius: 4px;
+    background-color: rgba(217, 217, 217, 0.5);
+  }
+  .vector-parent1 {
+    height: 18px;
+    width: 18px;
+    position: relative;
+    z-index: 1;
+  }
+  .frame-child15 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: none;
+  }
+  .twitter-x-1-icon {
+    position: absolute;
+    top: 4px;
+    left: 4px;
+    width: 10px;
+    height: 10px;
+    overflow: hidden;
+    z-index: 2;
+  }
+  .frame-child16,
+  .rectangle-parent14 {
+    border-radius: 4px;
+    background-color: rgba(217, 217, 217, 0.5);
+  }
+  .rectangle-parent14 {
+    height: 18px;
+    width: 18px;
+    position: relative;
+    z-index: 1;
+  }
+  .frame-child16 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: none;
+  }
+  .google-1-icon {
+    position: absolute;
+    top: 4px;
+    left: 4px;
+    width: 10px;
+    height: 10px;
+    overflow: hidden;
+    z-index: 2;
+  }
+  .frame-child17,
+  .rectangle-parent15 {
+    border-radius: 4px;
+    background-color: rgba(217, 217, 217, 0.5);
+  }
+  .rectangle-parent15 {
+    height: 18px;
+    width: 18px;
+    position: relative;
+    z-index: 1;
+  }
+  .frame-child17 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: none;
+  }
+  .messenger-1-icon {
+    position: absolute;
+    top: 4px;
+    left: 4px;
+    width: 10px;
+    height: 10px;
+    overflow: hidden;
+    z-index: 2;
+  }
+  .rectangle-parent16 {
+    height: 18px;
+    width: 18px;
+    position: relative;
+    border-radius: 4px;
+    background-color: rgba(217, 217, 217, 0.5);
+    z-index: 1;
+  }
+  .frame-parent24,
+  .log-file,
+  .log-file-inner {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .frame-parent24 {
+    gap: 5px;
+  }
+  .log-file,
+  .log-file-inner {
+    padding: 0 7px;
+  }
+  .log-file {
+    width: 175px;
+    flex-direction: column;
+    padding: 0 23px 0 0;
+    box-sizing: border-box;
+    gap: 13px;
+    font-size: 8px;
+  }
+  .my-account,
+  .my-account1 {
+    height: 16px;
+    position: relative;
+    font-weight: 500;
+    display: inline-block;
+    min-width: 57px;
+    z-index: 1;
+  }
+  .my-account1 {
+    z-index: 2;
+    margin-left: -57px;
+  }
+  .my-account-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .author-profile,
+  .authors,
+  .collection,
+  .create-collection {
+    height: 16px;
+    position: relative;
+    font-weight: 300;
+    display: inline-block;
+    flex-shrink: 0;
+    z-index: 1;
+  }
+  .authors,
+  .collection {
+    width: 57px;
+  }
+  .author-profile,
+  .create-collection {
+    min-width: 57px;
+  }
+  .create-collection {
+    min-width: 67px;
+  }
+  .authors-parent,
+  .frame-parent26 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .authors-parent {
+    align-self: stretch;
+    gap: 1px;
+    font-size: 8px;
+  }
+  .frame-parent26 {
+    width: 67px;
+    gap: 8px;
+  }
+  .activity,
+  .help-support,
+  .item-details,
+  .live-auctions1,
+  .resources {
+    height: 16px;
+    position: relative;
+    display: inline-block;
+    flex-shrink: 0;
+    z-index: 1;
+  }
+  .resources {
+    width: 57px;
+    font-weight: 500;
+  }
+  .activity,
+  .help-support,
+  .item-details,
+  .live-auctions1 {
+    font-weight: 300;
+  }
+  .help-support {
+    min-width: 61px;
+  }
+  .activity,
+  .item-details,
+  .live-auctions1 {
+    align-self: stretch;
+  }
+  .help-support-parent {
+    align-self: stretch;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 1px;
+    font-size: 8px;
+  }
+  .frame-parent25,
+  .help-support-parent,
+  .resources-parent {
+    display: flex;
+    align-items: flex-start;
+  }
+  .resources-parent {
+    width: 61px;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 8px;
+  }
+  .frame-parent25 {
+    flex: 1;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  .about-us,
+  .company,
+  .contact-us,
+  .discover,
+  .our-blog {
+    height: 16px;
+    position: relative;
+    display: inline-block;
+    flex-shrink: 0;
+    z-index: 1;
+  }
+  .company {
+    width: 57px;
+    font-weight: 500;
+  }
+  .about-us,
+  .contact-us,
+  .discover,
+  .our-blog {
+    align-self: stretch;
+    font-weight: 300;
+  }
+  .about-us-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 1px;
+    font-size: 8px;
+  }
+  .editor {
+    width: 61px;
+    flex-direction: column;
+    gap: 8px;
+  }
+  .chart-builder,
+  .editor,
+  .network-analyzer {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .chart-builder {
+    align-self: stretch;
+    flex-direction: row;
+    gap: 45px;
+  }
+  .network-analyzer {
+    flex: 1;
+    flex-direction: column;
+    padding: 9px 0 0;
+    box-sizing: border-box;
+    min-width: 181px;
+  }
+  .namegailcom,
+  .subscribe-us {
+    display: inline-block;
+    height: 16px;
+  }
+  .subscribe-us {
+    width: 75px;
+    position: relative;
+    font-weight: 500;
+    flex-shrink: 0;
+    z-index: 1;
+  }
+  .namegailcom {
+    position: absolute;
+    top: 7px;
+    left: 11px;
+    width: 88px;
+    white-space: nowrap;
+    z-index: 2;
+  }
+  .frame-child18,
+  .frame-child19 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .frame-child18 {
+    border-radius: 4px;
+    z-index: 1;
+  }
+  .frame-child19 {
+    z-index: 2;
+  }
+  .caret-right-fill-1-icon {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    width: 16px;
+    height: 16px;
+    overflow: hidden;
+    z-index: 3;
+  }
+  .vector-parent2,
+  .vector-parent3 {
+    position: absolute;
+    top: 0;
+    left: 115px;
+    width: 25px;
+    height: 25px;
+  }
+  .vector-parent2 {
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .namegailcom-parent {
+    align-self: stretch;
+    height: 25px;
+    position: relative;
+    font-size: 8px;
+  }
+  .subscribe-us-parent {
+    align-self: stretch;
+    flex-direction: column;
+    gap: 6px;
+  }
+  .exporter,
+  .message-router,
+  .subscribe-us-parent {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .exporter {
+    width: 140px;
+    flex-direction: column;
+    padding: 9px 0 0;
+    box-sizing: border-box;
+  }
+  .message-router {
+    align-self: stretch;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 39px;
+  }
+  .vector-icon6 {
+    height: 8px;
+    width: 8px;
+    position: relative;
+    z-index: 1;
+  }
+  .tattoo-sudio-i {
+    height: 16px;
+    position: relative;
+    font-weight: 300;
+    display: inline-block;
+    z-index: 1;
+  }
+  .vector-parent4 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 5.8px;
+  }
+  .timer-queue,
+  .timer-queue-inner {
+    display: flex;
+    align-items: flex-start;
+    max-width: 100%;
+  }
+  .timer-queue-inner {
+    width: 660.2px;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0 20px;
+    box-sizing: border-box;
+    font-size: 8px;
+  }
+  .timer-queue {
+    flex: 1;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 22px;
+  }
+  .nav-bar,
+  .state-machine {
+    display: flex;
+    box-sizing: border-box;
+  }
+  .state-machine {
+    width: 837px;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 86px 0 80px;
+    max-width: 100%;
+    font-size: 9px;
+  }
+  .nav-bar {
+    position: relative;
+    background-color: #fff;
+    width: 100%;
+    overflow-x: auto;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+    padding: 0 0 5px;
+    gap: 90px;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    font-size: 30px;
+    color: #fff;
+    font-family: Inter;
+  }
+  @media screen and (max-width: 750px) {
+    .create-sell-and-container {
+      font-size: 24px;
+    }
+    .ancestry-path-wrapper,
+    .constant-provider {
+      flex: 1;
+    }
+    .frame-parent1 {
+      flex-wrap: wrap;
+    }
+    .data-merger {
+      gap: 18px;
+    }
+    .or-operator-parent {
+      gap: 27px;
+    }
+    .data-merger-x-parent {
+      flex: 1;
+    }
+    .geometry-modifier,
+    .output-display-x {
+      flex-wrap: wrap;
+    }
+    .frame-parent16 {
+      gap: 22px;
+    }
+    .what-are-you-container {
+      font-size: 24px;
+    }
+    .message-router {
+      gap: 19px;
+    }
+  }
+  @media screen and (max-width: 675px) {
+    .home-parent {
+      display: none;
+    }
+    .frame-container {
+      width: 0;
+    }
+    .q-tattoo-logo-720-tatto-logo-p-parent {
+      gap: 33px;
+    }
+    .shadow-parent {
+      flex: 1;
+    }
+    .filler {
+      flex-wrap: wrap;
+      gap: 15px;
+    }
+    .icon-parent {
+      gap: 23px;
+    }
+    .create-and-sell-your-nfts-parent {
+      gap: 20px;
+    }
+    .data-pumper-parent,
+    .frame-parent17 {
+      flex-wrap: wrap;
+    }
+    .frame-parent20 {
+      gap: 15px;
+    }
+    .geometry-modifier,
+    .output-display-x {
+      gap: 16px;
+    }
+    .link-manager {
+      gap: 20px;
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .q-tattoo-logo-720-tatto-logo-p-parent {
+      gap: 17px;
+    }
+    .create-sell-and-container {
+      font-size: 18px;
+    }
+    .editors-pick-for-this-week-parent {
+      flex-wrap: wrap;
+    }
+    .guides {
+      flex: 1;
+    }
+    .contrast {
+      flex-wrap: wrap;
+      gap: 19px;
+    }
+    .get-more-beautiful-container {
+      font-size: 22px;
+    }
+    .popular-collections {
+      font-size: 19px;
+    }
+    .output-dispenser {
+      flex-wrap: wrap;
+    }
+    .error-logger,
+    .error-logger1 {
+      flex-wrap: wrap;
+      gap: 16px;
+    }
+    .link-provider-x,
+    .link-provider-x1 {
+      flex: 1;
+    }
+    .rectangle-parent {
+      gap: 77px;
+      padding-left: 20px;
+      padding-right: 20px;
+      box-sizing: border-box;
+    }
+    .what-are-you-container {
+      font-size: 18px;
+    }
+    .chart-builder {
+      gap: 22px;
+    }
+    .state-machine {
+      padding-left: 20px;
+      padding-right: 20px;
+    }}
+  

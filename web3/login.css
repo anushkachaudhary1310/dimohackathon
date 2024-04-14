@@ -1,0 +1,558 @@
+.frame-child {
+    height: 55px;
+    width: 837px;
+    position: relative;
+    background-color: #fff;
+    display: none;
+    max-width: 100%;
+  }
+  .q-tattoo-logo-720-tatto-logo-p-icon {
+    height: 49px;
+    width: 123px;
+    position: relative;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .home {
+    align-self: stretch;
+    position: relative;
+    font-weight: 500;
+    z-index: 1;
+  }
+  .home-wrapper {
+    width: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 8px 4px 0 0;
+    box-sizing: border-box;
+  }
+  .about {
+    position: relative;
+    font-weight: 500;
+    display: inline-block;
+    min-width: 36px;
+    z-index: 1;
+  }
+  .about-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 8px 7px 0 0;
+  }
+  .services {
+    align-self: stretch;
+    position: relative;
+    font-weight: 500;
+    z-index: 1;
+  }
+  .services-wrapper {
+    width: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 8px 0 0;
+    box-sizing: border-box;
+  }
+  .contact {
+    align-self: stretch;
+    position: relative;
+    font-weight: 500;
+    z-index: 1;
+  }
+  .contact-wrapper {
+    width: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 8px 0 0;
+    box-sizing: border-box;
+  }
+  .frame-item {
+    height: 32px;
+    width: 83px;
+    position: relative;
+    border-radius: 5px;
+    background-color: #000;
+    border: 1px solid #fff;
+    box-sizing: border-box;
+    display: none;
+  }
+  .login {
+    width: 50px;
+    position: relative;
+    font-size: 12px;
+    line-height: 12px;
+    font-weight: 500;
+    font-family: Inter;
+    color: #fff;
+    text-align: left;
+    display: inline-block;
+    flex-shrink: 0;
+    z-index: 2;
+  }
+  .frame-parent,
+  .rectangle-group {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+  }
+  .rectangle-group {
+    cursor: pointer;
+    border: 1px solid #fff;
+    padding: 8px 7px 12px;
+    background-color: #000;
+    flex: 1;
+    border-radius: 5px;
+    justify-content: flex-end;
+    z-index: 1;
+  }
+  .rectangle-group:hover {
+    background-color: #333;
+    border: 1px solid #e6e6e6;
+    box-sizing: border-box;
+  }
+  .frame-parent {
+    align-self: stretch;
+    justify-content: flex-start;
+    padding: 0 1px 0 0;
+    gap: 19px;
+  }
+  .frame-wrapper,
+  .rectangle-parent {
+    display: flex;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .frame-wrapper {
+    width: 343px;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 0 7px;
+  }
+  .rectangle-parent {
+    align-self: stretch;
+    background-color: #fff;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+    padding: 3px 40px 3px 18px;
+    top: 0;
+    z-index: 99;
+    position: sticky;
+    gap: 20px;
+    text-align: left;
+    font-size: 12px;
+    color: #000;
+    font-family: Inter;
+  }
+  .frame-inner {
+    height: 442px;
+    width: 892px;
+    position: absolute;
+    margin: 0 !important;
+    top: 24px;
+    left: -218px;
+    object-fit: cover;
+  }
+  .rectangle-div {
+    width: 510px;
+    height: 558px;
+    position: relative;
+    border-radius: 33px;
+    background-color: rgba(255, 255, 255, 0.75);
+    border: 1px solid #000;
+    box-sizing: border-box;
+    display: none;
+    max-width: 100%;
+  }
+  .login1 {
+    margin: 0;
+    height: 12px;
+    width: 118px;
+    position: relative;
+    font-size: inherit;
+    font-weight: 500;
+    font-family: inherit;
+    display: inline-block;
+    flex-shrink: 0;
+    z-index: 2;
+  }
+  .login-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 0 0 11px;
+  }
+  .email,
+  .vector-icon {
+    position: relative;
+    z-index: 2;
+  }
+  .email {
+    width: 77px;
+    border: 0;
+    outline: 0;
+    font-weight: 500;
+    font-family: Inter;
+    font-size: 20px;
+    background-color: transparent;
+    height: 26px;
+    color: #000;
+    text-align: left;
+    display: inline-block;
+    padding: 0;
+  }
+  .vector-icon {
+    width: 23px;
+    height: 17px;
+  }
+  .email-parent,
+  .vector-wrapper {
+    display: flex;
+    align-items: flex-start;
+  }
+  .vector-wrapper {
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 5px 0 0;
+  }
+  .email-parent {
+    flex: 1;
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 100%;
+    gap: 20px;
+  }
+  .frame-wrapper1,
+  .line-div {
+    align-self: stretch;
+    box-sizing: border-box;
+  }
+  .frame-wrapper1 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 11px 0 7px;
+    max-width: 100%;
+  }
+  .line-div {
+    height: 3px;
+    position: relative;
+    border-top: 3px solid #000;
+    z-index: 2;
+  }
+  .frame-container {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 19px;
+    max-width: 100%;
+  }
+  .password,
+  .vector-icon1 {
+    position: relative;
+    z-index: 2;
+  }
+  .password {
+    width: 99px;
+    border: 0;
+    outline: 0;
+    font-weight: 500;
+    font-family: Inter;
+    font-size: 20px;
+    background-color: transparent;
+    height: 26px;
+    color: #000;
+    text-align: left;
+    display: inline-block;
+    padding: 0;
+  }
+  .vector-icon1 {
+    width: 17px;
+    height: 22px;
+  }
+  .vector-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 2px 0 0;
+  }
+  .password-parent {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    max-width: 100%;
+    gap: 20px;
+  }
+  .frame-child1,
+  .frame-wrapper2 {
+    align-self: stretch;
+    box-sizing: border-box;
+  }
+  .frame-wrapper2 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 11px 0 7px;
+    max-width: 100%;
+  }
+  .frame-child1 {
+    height: 3px;
+    position: relative;
+    border-top: 3px solid #000;
+    z-index: 2;
+  }
+  .frame-parent3 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 19px;
+    max-width: 100%;
+  }
+  .check-square-fill-1 {
+    accent-color: #000;
+    margin: 0;
+    width: 16px;
+    height: 16px;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+    z-index: 2;
+  }
+  .check-square-fill-1-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 2px 0 0;
+  }
+  .remember-me {
+    margin: 0;
+    height: 26px;
+    position: relative;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: Inter;
+    color: #000;
+    text-align: left;
+    display: inline-block;
+    min-width: 127px;
+    z-index: 2;
+  }
+  .frame-parent2,
+  .frame-parent4 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 10px;
+  }
+  .frame-parent2 {
+    align-self: stretch;
+    flex-direction: column;
+    gap: 16px;
+    max-width: 100%;
+  }
+  .frame-child2 {
+    height: 50px;
+    width: 397px;
+    position: relative;
+    border-radius: 10px;
+    background-color: #000;
+    display: none;
+    max-width: 100%;
+  }
+  .login2 {
+    position: relative;
+    font-size: 25px;
+    font-weight: 500;
+    font-family: Inter;
+    color: #fff;
+    text-align: left;
+    display: inline-block;
+    min-width: 67px;
+    z-index: 3;
+  }
+  .frame-button,
+  .frame-wrapper3 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .frame-button {
+    cursor: pointer;
+    border: 0;
+    padding: 10px 161px 9px;
+    background-color: #000;
+    flex: 1;
+    border-radius: 10px;
+    justify-content: center;
+    z-index: 2;
+  }
+  .frame-button:hover {
+    background-color: #333;
+  }
+  .frame-wrapper3 {
+    align-self: stretch;
+    justify-content: flex-start;
+    padding: 0 0 13px;
+  }
+  .dont-have-an {
+    margin: 0;
+    width: 291px;
+    position: relative;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: Inter;
+    color: #000;
+    text-align: left;
+    display: inline-block;
+    flex-shrink: 0;
+    z-index: 2;
+  }
+  .dont-have-an-account-registe-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 46px;
+  }
+  .frame-group,
+  .frame-parent1 {
+    align-self: stretch;
+    flex-direction: column;
+  }
+  .frame-parent1 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 21px;
+    max-width: 100%;
+  }
+  .frame-group {
+    margin: 0;
+    gap: 53px;
+  }
+  .frame-div,
+  .frame-group,
+  .rectangle-container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .frame-div {
+    flex: 1;
+    border-radius: 33px;
+    background-color: rgba(255, 255, 255, 0.75);
+    border: 1px solid #000;
+    box-sizing: border-box;
+    flex-direction: column;
+    padding: 57px 51px 69px 60px;
+    gap: 98px;
+    z-index: 1;
+  }
+  .rectangle-container {
+    width: 510px;
+    flex-direction: row;
+    position: relative;
+  }
+  .login-page,
+  .login-page-inner {
+    display: flex;
+    align-items: flex-start;
+    box-sizing: border-box;
+  }
+  .login-page-inner {
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0 21px 0 20px;
+    max-width: 100%;
+    text-align: left;
+    font-size: 40px;
+    color: #000;
+    font-family: Inter;
+  }
+  .login-page {
+    width: 100%;
+    position: relative;
+    background: linear-gradient(
+      180deg,
+      #0a1d93 8.03%,
+      #000 27.5%,
+      #000 67.5%,
+      #061da9
+    );
+    overflow: hidden;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 0 0 284px;
+    gap: 297px;
+    line-height: normal;
+    letter-spacing: normal;
+    cursor: pointer;
+  }
+  @media screen and (max-width: 750px) {
+    .login1 {
+      font-size: 32px;
+    }
+  }
+  @media screen and (max-width: 675px) {
+    .frame-parent {
+      display: none;
+    }
+    .frame-wrapper {
+      width: 0;
+    }
+    .frame-div {
+      gap: 49px;
+      padding: 37px 25px 45px 30px;
+      box-sizing: border-box;
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .login1 {
+      font-size: 24px;
+    }
+    .email,
+    .password {
+      font-size: 16px;
+    }
+    .login2 {
+      font-size: 20px;
+    }
+    .dont-have-an-account-registe-wrapper,
+    .frame-button {
+      padding-left: 20px;
+      padding-right: 20px;
+      box-sizing: border-box;
+    }
+    .frame-group {
+      gap: 26px;
+    }
+    .frame-div {
+      gap: 24px;
+    }
+    .login-page {
+      gap: 148px;}}

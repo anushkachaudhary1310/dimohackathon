@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./login.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap"
+    />
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>login</title>
+  <link rel="stylesheet" href="login.css">
+  <script src="server.js"></script>
+  </head>
+  <body>
+    <div class="login-page" id="loginPageContainer">
+      <header class="rectangle-parent">
+        <div class="frame-child"></div>
+        <img
+          class="q-tattoo-logo-720-tatto-logo-p-icon"
+          loading="lazy"
+          alt=""
+          src="./images/logo.jpg"
+        />
+
+        <div class="frame-wrapper">
+          <div class="frame-parent">
+            <div class="home-wrapper">
+              <div class="home">Home</div>
+            </div>
+            <div class="about-wrapper">
+              <div class="about">About</div>
+            </div>
+            <div class="services-wrapper">
+              <div class="services">Services</div>
+            </div>
+            <div class="contact-wrapper">
+              <div class="contact">Contact</div>
+            </div>
+            <button class="rectangle-group">
+              <div class="frame-item"></div>
+              <div class="login">Login</div>
+            </button>
+          </div>
+        </div>
+      </header>
+      <section class="login-page-inner">
+        <div class="rectangle-container">
+          <img class="frame-inner" alt="" src="./images/background.jpg" 
+          />
+
+          <div class="frame-div">
+            <div class="rectangle-div"></div>
+            <div class="login-wrapper">
+              <h1 class="login1">Login</h1>
+            </div>
+            <form class="frame-group">
+              <div class="frame-container">
+                <div class="frame-wrapper1">
+                  <div class="email-parent">
+                    <input class="email" placeholder="Email" type="text" />
+
+                    <div class="vector-wrapper">
+                      <img
+                        class="vector-icon"
+                        alt=""
+                        src="./images/email icon.png"
+                      />
+                    </div>
+                  </div>
+                </div>
+                <div class="line-div"></div>
+              </div>
+              <div class="frame-parent1">
+                <div class="frame-parent2">
+                  <div class="frame-parent3">
+                    <div class="frame-wrapper2">
+                      <div class="password-parent">
+                        <input
+                          class="password"
+                          placeholder="Password"
+                          type="text"
+                        />
+
+                        <div class="vector-container">
+                          <img
+                            class="vector-icon1"
+                            alt=""
+                            src="./images/pswd icon.jpg"
+                          />
+                        </div>
+                      </div>
+                    </div>
+                    <div class="frame-child1"></div>
+                  </div>
+                  <div class="frame-parent4">
+                    <div class="check-square-fill-1-wrapper">
+                      <input
+                        class="check-square-fill-1"
+                        checked="{true}"
+                        type="checkbox"
+                      />
+                    </div>
+                    <h3 class="remember-me">Remember me</h3>
+                  </div>
+                </div>
+                <div class="frame-wrapper3">
+                  <button class="frame-button" id="frameButton1">
+                    <div class="frame-child2"></div>
+                    <div class="login2">Login</div>
+                  </button>
+                </div>
+                <div class="dont-have-an-account-registe-wrapper">
+                  <h3 class="dont-have-an">Don’t have an account? Register</h3>
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <script>
+      var frameButton1 = document.getElementById("frameButton1");
+      if (frameButton1) {
+        frameButton1.addEventListener("click", function (e) {
+          // Please sync "main page" to the project
+        });
+      }
+      
+      var loginPageContainer = document.getElementById("loginPageContainer");
+      if (loginPageContainer) {
+        loginPageContainer.addEventListener("click", function (e) {
+          // Please sync "main page" to the project
+        });
+      }
+      </script>
